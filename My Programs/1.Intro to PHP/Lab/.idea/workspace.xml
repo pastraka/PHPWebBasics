@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e28dfc18-a838-4134-8e31-129fceedbb2b" name="Default Changelist" comment="Lab8">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Toshiba.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countRealNumbers.php" afterDir="false" />
+    <list default="true" id="e28dfc18-a838-4134-8e31-129fceedbb2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/oddOccurrences.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Toshiba.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Toshiba.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +46,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/countRealNumbers.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oddOccurrences.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#7#55#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,6 +79,7 @@
         <option value="$PROJECT_DIR$/fillTheMatrix.php" />
         <option value="$PROJECT_DIR$/diagonalDifference.php" />
         <option value="$PROJECT_DIR$/countRealNumbers.php" />
+        <option value="$PROJECT_DIR$/oddOccurrences.php" />
       </list>
     </option>
   </component>
@@ -119,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.countRealNumbers.php">
+  <component name="RunManager" selected="PHP Script.oddOccurrences.php">
     <configuration name="FindMinAndMaxElement.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/FindMinAndMaxElement.php">
       <method v="2" />
     </configuration>
@@ -129,8 +142,12 @@
     <configuration name="diagonalDifference.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/diagonalDifference.php">
       <method v="2" />
     </configuration>
+    <configuration name="oddOccurrences.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/oddOccurrences.php">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.oddOccurrences.php" />
         <item itemvalue="PHP Script.countRealNumbers.php" />
         <item itemvalue="PHP Script.diagonalDifference.php" />
       </list>
@@ -147,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1560601268256</updated>
       <workItem from="1560601269662" duration="1591000" />
-      <workItem from="1560665893381" duration="6785000" />
+      <workItem from="1560665893381" duration="8743000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <created>1560667354421</created>
@@ -163,22 +180,28 @@
       <option name="project" value="LOCAL" />
       <updated>1560680269783</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab9">
+      <created>1560690153261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560690153261</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8376000" />
+    <option name="totallyTimeSpent" value="10334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -236,7 +259,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload" />
     <MESSAGE value="Lab8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab8" />
+    <MESSAGE value="Lab9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -274,7 +298,24 @@
     <entry file="file://$PROJECT_DIR$/countRealNumbers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="906" column="9" selection-start-line="906" selection-start-column="9" selection-end-line="906" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oddOccurrences.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#7#55#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
