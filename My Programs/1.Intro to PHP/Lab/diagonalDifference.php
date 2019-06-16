@@ -8,11 +8,10 @@ for ($i = 0; $i < $n; $i++) {
 }
 $primarySum = 0;
 $secondarySum = 0;
-
 for ($i = 0; $i < $n; $i++) {
-    for ($j = 0; $j < $n; $j++) {
-        if ($j == $i) {
-            $primarySum += $matrix[$j];
-        }
-    }
+    $primarySum += $matrix[$i][$i];
 }
+for ($j = 0; $j < $n; $j++) {
+    $secondarySum += $matrix[$j][$n - $j - 1];
+}
+echo abs($secondarySum - $primarySum);
