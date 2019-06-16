@@ -1,4 +1,4 @@
-<?php
+ <?php
 //
 //$rows = 4;
 //$cols = 4;
@@ -25,7 +25,7 @@ function printMatrix($matrix)
 {
     for ($row = 0; $row < count($matrix); $row++) {
         for ($col = 0; $col < count($matrix); $col++) {
-            echo "{$matrix[$row][$col]}";
+            echo "{$matrix[$row][$col]} ";
         }
         echo PHP_EOL;
     }
