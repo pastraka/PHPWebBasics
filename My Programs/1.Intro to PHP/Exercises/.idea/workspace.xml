@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d5170eb-e8d4-4c6b-8d1c-cc5a1c6df7d3" name="Default Changelist" comment="Exercises">
+    <list default="true" id="4d5170eb-e8d4-4c6b-8d1c-cc5a1c6df7d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/maxSequenceOfEqualElements.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mostFrequentNumber.php" beforeDir="false" afterPath="$PROJECT_DIR$/mostFrequentNumber.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
     <property name="last_opened_file_path" value="C:/xampp/php/php.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,8 +45,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.mostFrequentNumber.php">
+  <component name="RunManager" selected="PHP Script.maxSequenceOfEqualElements.php">
     <configuration name="indexOfLetters.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" temporary="true" path="$PROJECT_DIR$/indexOfLetters.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="maxSequenceOfEqualElements.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/maxSequenceOfEqualElements.php">
       <method v="2" />
     </configuration>
     <configuration name="mostFrequentNumber.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/mostFrequentNumber.php">
@@ -63,9 +66,11 @@
       <item itemvalue="PHP Script.mostFrequentNumber.php" />
       <item itemvalue="PHP Script.reverseAnArrayOfStrings.php" />
       <item itemvalue="PHP Script.sumReversedNumbers.php" />
+      <item itemvalue="PHP Script.maxSequenceOfEqualElements.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.maxSequenceOfEqualElements.php" />
         <item itemvalue="PHP Script.mostFrequentNumber.php" />
         <item itemvalue="PHP Script.indexOfLetters.php" />
         <item itemvalue="PHP Script.sumReversedNumbers.php" />
@@ -88,7 +93,12 @@
       <workItem from="1561119426153" duration="2414000" />
       <workItem from="1563619025466" duration="105000" />
       <workItem from="1565437740247" duration="278000" />
-      <workItem from="1565610935150" duration="3432000" />
+      <workItem from="1565610935150" duration="6037000" />
+      <workItem from="1565953820471" duration="1028000" />
+      <workItem from="1566123403686" duration="1606000" />
+      <workItem from="1566130858477" duration="49000" />
+      <workItem from="1566131095564" duration="1723000" />
+      <workItem from="1566132870775" duration="1648000" />
     </task>
     <task id="LOCAL-00001" summary="Exercises">
       <created>1560792646279</created>
@@ -118,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560875698604</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercises">
+      <created>1565614602919</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565614602919</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,5 +158,16 @@
     <MESSAGE value="Exercisess" />
     <MESSAGE value="Exercises" />
     <option name="LAST_COMMIT_MESSAGE" value="Exercises" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/maxSequenceOfEqualElements.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
