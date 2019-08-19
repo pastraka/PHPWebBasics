@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d5170eb-e8d4-4c6b-8d1c-cc5a1c6df7d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/maxSequenceOfEqualElements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxSequenceOfIncreasingElements.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,7 +98,7 @@
       <workItem from="1566123403686" duration="1606000" />
       <workItem from="1566130858477" duration="49000" />
       <workItem from="1566131095564" duration="1723000" />
-      <workItem from="1566132870775" duration="1648000" />
+      <workItem from="1566132870775" duration="3482000" />
     </task>
     <task id="LOCAL-00001" summary="Exercises">
       <created>1560792646279</created>
@@ -135,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565614602919</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercises">
+      <created>1566135452285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1566135452285</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,16 +165,5 @@
     <MESSAGE value="Exercisess" />
     <MESSAGE value="Exercises" />
     <option name="LAST_COMMIT_MESSAGE" value="Exercises" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/maxSequenceOfEqualElements.php</url>
-          <line>6</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

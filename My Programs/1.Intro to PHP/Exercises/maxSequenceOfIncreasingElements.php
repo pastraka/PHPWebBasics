@@ -1,0 +1,3 @@
+<?php
+
+$arr = explode(" ", readline());
