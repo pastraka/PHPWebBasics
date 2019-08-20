@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d5170eb-e8d4-4c6b-8d1c-cc5a1c6df7d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Toshiba.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Toshiba.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lastKNumbersSumsSequence.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maxSequenceOfEqualElements.php" beforeDir="false" afterPath="$PROJECT_DIR$/maxSequenceOfEqualElements.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maxSequenceOfIncreasingElements.php" beforeDir="false" afterPath="$PROJECT_DIR$/maxSequenceOfIncreasingElements.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mostFrequentNumber.php" beforeDir="false" afterPath="$PROJECT_DIR$/mostFrequentNumber.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumReversedNumbers.php" beforeDir="false" afterPath="$PROJECT_DIR$/sumReversedNumbers.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +45,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.maxSequenceOfIncreasingElements.php">
+  <component name="RunManager" selected="PHP Script.lastKNumbersSumsSequence.php">
     <configuration name="indexOfLetters.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" temporary="true" path="$PROJECT_DIR$/indexOfLetters.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="lastKNumbersSumsSequence.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lastKNumbersSumsSequence.php">
       <method v="2" />
     </configuration>
     <configuration name="maxSequenceOfEqualElements.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/maxSequenceOfEqualElements.php">
@@ -63,23 +61,20 @@
     <configuration name="mostFrequentNumber.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/mostFrequentNumber.php">
       <method v="2" />
     </configuration>
-    <configuration name="sumReversedNumbers.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/sumReversedNumbers.php">
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="PHP Script.indexOfLetters.php" />
       <item itemvalue="PHP Script.mostFrequentNumber.php" />
-      <item itemvalue="PHP Script.sumReversedNumbers.php" />
       <item itemvalue="PHP Script.maxSequenceOfEqualElements.php" />
       <item itemvalue="PHP Script.maxSequenceOfIncreasingElements.php" />
+      <item itemvalue="PHP Script.lastKNumbersSumsSequence.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.lastKNumbersSumsSequence.php" />
         <item itemvalue="PHP Script.maxSequenceOfIncreasingElements.php" />
         <item itemvalue="PHP Script.maxSequenceOfEqualElements.php" />
         <item itemvalue="PHP Script.mostFrequentNumber.php" />
         <item itemvalue="PHP Script.indexOfLetters.php" />
-        <item itemvalue="PHP Script.sumReversedNumbers.php" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +98,7 @@
       <workItem from="1566123403686" duration="1606000" />
       <workItem from="1566130858477" duration="49000" />
       <workItem from="1566131095564" duration="1723000" />
-      <workItem from="1566132870775" duration="11798000" />
+      <workItem from="1566132870775" duration="13718000" />
     </task>
     <task id="LOCAL-00001" summary="Exercises">
       <created>1560792646279</created>
