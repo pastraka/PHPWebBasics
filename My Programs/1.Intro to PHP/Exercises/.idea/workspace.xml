@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d5170eb-e8d4-4c6b-8d1c-cc5a1c6df7d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/condenseArrayToNumber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sumMatrixElements.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,14 +45,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.condenseArrayToNumber.php">
+  <component name="RunManager" selected="PHP Script.sumMatrixElements.php">
     <configuration name="condenseArrayToNumber.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/condenseArrayToNumber.php">
       <method v="2" />
     </configuration>
     <configuration name="lastKNumbersSumsSequence.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lastKNumbersSumsSequence.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="maxSequenceOfEqualElements.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/maxSequenceOfEqualElements.php">
       <method v="2" />
     </configuration>
     <configuration name="maxSequenceOfIncreasingElements.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/maxSequenceOfIncreasingElements.php">
@@ -61,20 +58,23 @@
     <configuration name="rotateAndSum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rotateAndSum.php">
       <method v="2" />
     </configuration>
+    <configuration name="sumMatrixElements.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/sumMatrixElements.php">
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="PHP Script.maxSequenceOfEqualElements.php" />
       <item itemvalue="PHP Script.maxSequenceOfIncreasingElements.php" />
       <item itemvalue="PHP Script.lastKNumbersSumsSequence.php" />
       <item itemvalue="PHP Script.rotateAndSum.php" />
       <item itemvalue="PHP Script.condenseArrayToNumber.php" />
+      <item itemvalue="PHP Script.sumMatrixElements.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.sumMatrixElements.php" />
         <item itemvalue="PHP Script.condenseArrayToNumber.php" />
         <item itemvalue="PHP Script.rotateAndSum.php" />
         <item itemvalue="PHP Script.lastKNumbersSumsSequence.php" />
         <item itemvalue="PHP Script.maxSequenceOfIncreasingElements.php" />
-        <item itemvalue="PHP Script.maxSequenceOfEqualElements.php" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +105,7 @@
       <workItem from="1567752261280" duration="262000" />
       <workItem from="1567752726653" duration="3329000" />
       <workItem from="1568030788947" duration="2561000" />
-      <workItem from="1568048083417" duration="1269000" />
+      <workItem from="1568048083417" duration="2238000" />
     </task>
     <task id="LOCAL-00001" summary="Exercises">
       <created>1560792646279</created>
