@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d5170eb-e8d4-4c6b-8d1c-cc5a1c6df7d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lastKNumbersSumsSequence.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rotateAndSum.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,10 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.lastKNumbersSumsSequence.php">
-    <configuration name="indexOfLetters.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" temporary="true" path="$PROJECT_DIR$/indexOfLetters.php">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.rotateAndSum.php">
     <configuration name="lastKNumbersSumsSequence.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lastKNumbersSumsSequence.php">
       <method v="2" />
     </configuration>
@@ -61,20 +58,23 @@
     <configuration name="mostFrequentNumber.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/mostFrequentNumber.php">
       <method v="2" />
     </configuration>
+    <configuration name="rotateAndSum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rotateAndSum.php">
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="PHP Script.indexOfLetters.php" />
       <item itemvalue="PHP Script.mostFrequentNumber.php" />
       <item itemvalue="PHP Script.maxSequenceOfEqualElements.php" />
       <item itemvalue="PHP Script.maxSequenceOfIncreasingElements.php" />
       <item itemvalue="PHP Script.lastKNumbersSumsSequence.php" />
+      <item itemvalue="PHP Script.rotateAndSum.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.rotateAndSum.php" />
         <item itemvalue="PHP Script.lastKNumbersSumsSequence.php" />
         <item itemvalue="PHP Script.maxSequenceOfIncreasingElements.php" />
         <item itemvalue="PHP Script.maxSequenceOfEqualElements.php" />
         <item itemvalue="PHP Script.mostFrequentNumber.php" />
-        <item itemvalue="PHP Script.indexOfLetters.php" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +98,13 @@
       <workItem from="1566123403686" duration="1606000" />
       <workItem from="1566130858477" duration="49000" />
       <workItem from="1566131095564" duration="1723000" />
-      <workItem from="1566132870775" duration="13718000" />
+      <workItem from="1566132870775" duration="13906000" />
+      <workItem from="1567407088143" duration="65000" />
+      <workItem from="1567590934524" duration="136000" />
+      <workItem from="1567591327503" duration="2399000" />
+      <workItem from="1567752261280" duration="262000" />
+      <workItem from="1567752726653" duration="3329000" />
+      <workItem from="1568030788947" duration="1688000" />
     </task>
     <task id="LOCAL-00001" summary="Exercises">
       <created>1560792646279</created>
@@ -165,5 +171,16 @@
     <MESSAGE value="Exercisess" />
     <MESSAGE value="Exercises" />
     <option name="LAST_COMMIT_MESSAGE" value="Exercises" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/rotateAndSum.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
