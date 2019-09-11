@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d5170eb-e8d4-4c6b-8d1c-cc5a1c6df7d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sumMatrixElements.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maximumSumOf2X2Submatrix.php" beforeDir="false" afterPath="$PROJECT_DIR$/maximumSumOf2X2Submatrix.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,14 +45,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.sumMatrixElements.php">
+  <component name="RunManager" selected="PHP Script.maximumSumOf2X2Submatrix.php">
     <configuration name="condenseArrayToNumber.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/condenseArrayToNumber.php">
       <method v="2" />
     </configuration>
     <configuration name="lastKNumbersSumsSequence.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lastKNumbersSumsSequence.php">
       <method v="2" />
     </configuration>
-    <configuration name="maxSequenceOfIncreasingElements.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/maxSequenceOfIncreasingElements.php">
+    <configuration name="maximumSumOf2X2Submatrix.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/maximumSumOf2X2Submatrix.php">
       <method v="2" />
     </configuration>
     <configuration name="rotateAndSum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rotateAndSum.php">
@@ -62,19 +62,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="PHP Script.maxSequenceOfIncreasingElements.php" />
       <item itemvalue="PHP Script.lastKNumbersSumsSequence.php" />
       <item itemvalue="PHP Script.rotateAndSum.php" />
       <item itemvalue="PHP Script.condenseArrayToNumber.php" />
       <item itemvalue="PHP Script.sumMatrixElements.php" />
+      <item itemvalue="PHP Script.maximumSumOf2X2Submatrix.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.maximumSumOf2X2Submatrix.php" />
         <item itemvalue="PHP Script.sumMatrixElements.php" />
         <item itemvalue="PHP Script.condenseArrayToNumber.php" />
         <item itemvalue="PHP Script.rotateAndSum.php" />
         <item itemvalue="PHP Script.lastKNumbersSumsSequence.php" />
-        <item itemvalue="PHP Script.maxSequenceOfIncreasingElements.php" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +105,8 @@
       <workItem from="1567752261280" duration="262000" />
       <workItem from="1567752726653" duration="3329000" />
       <workItem from="1568030788947" duration="2561000" />
-      <workItem from="1568048083417" duration="2238000" />
+      <workItem from="1568048083417" duration="3053000" />
+      <workItem from="1568108224914" duration="6591000" />
     </task>
     <task id="LOCAL-00001" summary="Exercises">
       <created>1560792646279</created>
