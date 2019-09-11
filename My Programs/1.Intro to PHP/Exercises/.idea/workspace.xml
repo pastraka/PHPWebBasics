@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4d5170eb-e8d4-4c6b-8d1c-cc5a1c6df7d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maximumSumOf2X2Submatrix.php" beforeDir="false" afterPath="$PROJECT_DIR$/maximumSumOf2X2Submatrix.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +105,7 @@
       <workItem from="1567752726653" duration="3329000" />
       <workItem from="1568030788947" duration="2561000" />
       <workItem from="1568048083417" duration="3053000" />
-      <workItem from="1568108224914" duration="6591000" />
+      <workItem from="1568108224914" duration="7573000" />
     </task>
     <task id="LOCAL-00001" summary="Exercises">
       <created>1560792646279</created>
@@ -173,5 +172,16 @@
     <MESSAGE value="Exercisess" />
     <MESSAGE value="Exercises" />
     <option name="LAST_COMMIT_MESSAGE" value="Exercises" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/maximumSumOf2X2Submatrix.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
