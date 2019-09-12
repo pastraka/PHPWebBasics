@@ -13,42 +13,21 @@ $totalSum = 0;
 $initialRow = 0;
 $initialCol = 0;
 
-if ($rowSize % 2 == 0) {
-    for ($row = 0; $row < count($matrix) - 3; $row++) {
-        for ($col = 0; $col < count($matrix[$row]) - 3; $col++) {
-            $currentSum = $matrix[$row][$col]
-                        + $matrix[$row][$col + 1]
-                        + $matrix[$row][$col + 2]
-                        + $matrix[$row + 1][$col]
-                        + $matrix[$row + 1][$col + 1]
-                        + $matrix[$row + 1][$col + 2]
-                        + $matrix[$row + 2][$col]
-                        + $matrix[$row + 2][$col + 1]
-                        + $matrix[$row + 2][$col + 2];
-            if ($currentSum > $totalSum) {
-                $totalSum = $currentSum;
-                $initialRow = $row;
-                $initialCol = $col;
-            }
-        }
-    }
-} else {
-    for ($row = 0; $row < count($matrix) - 2; $row++) {
-        for ($col = 0; $col < count($matrix[$row]) - 2; $col++) {
-            $currentSum = $matrix[$row][$col]
-                        + $matrix[$row][$col + 1]
-                        + $matrix[$row][$col + 2]
-                        + $matrix[$row + 1][$col]
-                        + $matrix[$row + 1][$col + 1]
-                        + $matrix[$row + 1][$col + 2]
-                        + $matrix[$row + 2][$col]
-                        + $matrix[$row + 2][$col + 1]
-                        + $matrix[$row + 2][$col + 2];
-            if ($currentSum > $totalSum) {
-                $totalSum = $currentSum;
-                $initialRow = $row;
-                $initialCol = $col;
-            }
+for ($row = 0; $row < count($matrix) - 3; $row++) {
+    for ($col = 0; $col < count($matrix[$row]) - 3; $col++) {
+        $currentSum = $matrix[$row][$col]
+                    + $matrix[$row][$col + 1]
+                    + $matrix[$row][$col + 2]
+                    + $matrix[$row + 1][$col]
+                    + $matrix[$row + 1][$col + 1]
+                    + $matrix[$row + 1][$col + 2]
+                    + $matrix[$row + 2][$col]
+                    + $matrix[$row + 2][$col + 1]
+                    + $matrix[$row + 2][$col + 2];
+        if ($currentSum > $totalSum) {
+            $totalSum = $currentSum;
+            $initialRow = $row;
+            $initialCol = $col;
         }
     }
 }
