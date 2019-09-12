@@ -25,4 +25,10 @@ while (true) {
         }
     }
     $input = readline();
+    if ($input == "ListAll") {
+        ksort($arr);
+        foreach ($arr as $key => $item) {
+            echo "{$key} -> {$item}" . PHP_EOL;
+        }
+    }
 }

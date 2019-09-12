@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d5170eb-e8d4-4c6b-8d1c-cc5a1c6df7d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/phoneBook.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phoneBookUpgrade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phoneBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/phoneBook.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.phoneBook.php">
+  <component name="RunManager" selected="PHP Script.phoneBookUpgrade.php">
     <configuration name="Exercises" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner directory="$PROJECT_DIR$" />
       <method v="2" />
@@ -56,26 +57,26 @@
     <configuration name="maximumSumOf2X2Submatrix.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/maximumSumOf2X2Submatrix.php">
       <method v="2" />
     </configuration>
+    <configuration name="phoneBookUpgrade.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/phoneBookUpgrade.php">
+      <method v="2" />
+    </configuration>
     <configuration name="phoneBook.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/phoneBook.php">
       <method v="2" />
     </configuration>
-    <configuration name="sumMatrixElements.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/sumMatrixElements.php">
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="PHP Script.sumMatrixElements.php" />
       <item itemvalue="PHP Script.maximumSumOf2X2Submatrix.php" />
       <item itemvalue="PHP Script.maximalSum.php" />
       <item itemvalue="PHPUnit.Exercises" />
       <item itemvalue="PHP Script.phoneBook.php" />
+      <item itemvalue="PHP Script.phoneBookUpgrade.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.phoneBookUpgrade.php" />
         <item itemvalue="PHP Script.phoneBook.php" />
         <item itemvalue="PHP Script.maximalSum.php" />
         <item itemvalue="PHP Script.maximumSumOf2X2Submatrix.php" />
         <item itemvalue="PHPUnit.Exercises" />
-        <item itemvalue="PHP Script.sumMatrixElements.php" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +109,7 @@
       <workItem from="1568030788947" duration="2561000" />
       <workItem from="1568048083417" duration="3053000" />
       <workItem from="1568108224914" duration="11450000" />
-      <workItem from="1568224919923" duration="3250000" />
+      <workItem from="1568224919923" duration="3831000" />
     </task>
     <task id="LOCAL-00001" summary="Exercises">
       <created>1560792646279</created>
@@ -175,16 +176,5 @@
     <MESSAGE value="Exercisess" />
     <MESSAGE value="Exercises" />
     <option name="LAST_COMMIT_MESSAGE" value="Exercises" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/phoneBook.php</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
