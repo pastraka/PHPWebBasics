@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d5170eb-e8d4-4c6b-8d1c-cc5a1c6df7d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pointsCounter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Toshiba.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Toshiba.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userLogins.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,10 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.pointsCounter.php">
-    <configuration name="maximalSum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/maximalSum.php">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.userLogins.php">
     <configuration name="mixedPhones.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/mixedPhones.php">
       <method v="2" />
     </configuration>
@@ -62,20 +58,23 @@
     <configuration name="pointsCounter.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/pointsCounter.php">
       <method v="2" />
     </configuration>
+    <configuration name="userLogins.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/userLogins.php">
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="PHP Script.maximalSum.php" />
       <item itemvalue="PHP Script.phoneBook.php" />
       <item itemvalue="PHP Script.phoneBookUpgrade.php" />
       <item itemvalue="PHP Script.mixedPhones.php" />
       <item itemvalue="PHP Script.pointsCounter.php" />
+      <item itemvalue="PHP Script.userLogins.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.userLogins.php" />
         <item itemvalue="PHP Script.pointsCounter.php" />
         <item itemvalue="PHP Script.mixedPhones.php" />
         <item itemvalue="PHP Script.phoneBookUpgrade.php" />
         <item itemvalue="PHP Script.phoneBook.php" />
-        <item itemvalue="PHP Script.maximalSum.php" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +110,8 @@
       <workItem from="1568224919923" duration="6302000" />
       <workItem from="1568356160487" duration="1286000" />
       <workItem from="1568627261138" duration="41000" />
-      <workItem from="1568627434868" duration="6631000" />
+      <workItem from="1568627434868" duration="6834000" />
+      <workItem from="1568648344759" duration="2168000" />
     </task>
     <task id="LOCAL-00001" summary="Exercises">
       <created>1560792646279</created>
@@ -184,8 +184,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/pointsCounter.php</url>
-          <line>37</line>
+          <line>1</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/userLogins.php</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
