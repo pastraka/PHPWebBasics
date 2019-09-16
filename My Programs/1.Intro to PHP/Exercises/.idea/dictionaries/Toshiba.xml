@@ -2,6 +2,7 @@
   <dictionary name="Toshiba">
     <words>
       <w>abcdefghijklmnopqrstuvwxyz</w>
+      <w>arsort</w>
       <w>intval</w>
       <w>strlen</w>
       <w>strrev</w>
