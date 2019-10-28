@@ -10,10 +10,10 @@ if (isset($_GET['text'])) {
 }
 ?>
 
-<!--<form>-->
-<!--    <label>-->
-<!--        <textarea rows="10" name="text"></textarea>-->
-<!--    </label>-->
-<!--    <br>-->
-<!--    <input type="submit" value="Extract">-->
-<!--</form>-->
+<form>
+    <label>
+        <textarea rows="10" name="text"></textarea>
+    </label>
+    <br>
+    <input type="submit" value="Extract">
+</form>
