@@ -1,8 +1,8 @@
 <form>
-    Name: <input type="text" name="name"><br>
-    Phone Number: <input type="text" name="phone"><br>
-    Age: <input type="text" name="age"><br>
-    Address: <input type="text" name="address"><br>
+    Name: <input type="text" name="name"/><br>
+    Phone Number: <input type="text" name="phone"/><br>
+    Age: <input type="text" name="age"/><br>
+    Address: <input type="text" name="address"/><br>
     <input type="submit">
 </form>
 
