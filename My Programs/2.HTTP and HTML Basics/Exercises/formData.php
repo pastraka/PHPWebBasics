@@ -1,8 +1,8 @@
 <form>
-    <input type="text" name="name"/><br/>
-    <input type="text" name="age"/><br/>
-    <input type="radio" name="gender" value="male" placeholder="Male"/>Male<br/>
-    <input type="radio" name="gender" value="female" placeholder="Female"/>Female<br/>
+    <input type="text" name="name" placeholder="Name"/><br/>
+    <input type="text" name="age" placeholder="Age"/><br/>
+    <input type="radio" name="gender" value="male"/>Male<br/>
+    <input type="radio" name="gender" value="female"/>Female<br/>
     <input type="submit"/>
 </form>
 
