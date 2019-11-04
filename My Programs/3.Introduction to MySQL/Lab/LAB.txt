@@ -1,0 +1,5 @@
+create database softuni;
+create table students(
+first_name varchar(20) Primary key, last_name varchar(20), number char(10), phone char(11), record_date char(8), is_active bool);
+drop table students;
+drop database softuni;

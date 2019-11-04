@@ -1,5 +1,5 @@
 <?php
-
+//$input = "3 2 4 -1";
 $input = explode(" ", readline());
 $n = intval(readline());
 $arr = [];
@@ -17,5 +17,8 @@ for ($j = 0; $j < $length; $j++) {
     array_unshift($result, $temp);
 }
 $result = array_reverse($result);
-
+//var_dump($result);
 echo implode(" ", $result);
+
+
+
