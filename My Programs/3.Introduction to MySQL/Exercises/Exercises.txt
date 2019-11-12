@@ -25,23 +25,32 @@ CREATE TABLE people(
     gender char(1) NOT NUll,
     birthdate date NOT NUll,
     biography text);
-
-CREATE TABLE users(
-id INT PRIMARY KEY AUTO_INCREMENT,
-username VARCHAR(30) NOT NULL,
-password VARCHAR(26) NOT NULL,
-profile_picture LONGBLOB,
-last_login_time DATE,
-is_deleted BOOLEAN);
-
-ALTER TABLE users
-DROP id;
-
 INSERT INTO people(name, picture, height, weight, gender, birthdate, biography) VALUES('Kevin', LOAD_FILE('C:/Users/mihai/Desktop/man.jpg'), '1.80', '80', 'm', "1986-08-27", "lorem ipsum hakuna matata dano da stane nai-nakraq");
 INSERT INTO people(name, picture, height, weight, gender, birthdate, biography) VALUES('Mitko', LOAD_FILE('C:/Users/mihai/Desktop/man.jpg'), '1.85', '85', 'm', "1976-09-20", "lorem ipsum hakuna matata dano da stane nai-nakraq");
 INSERT INTO people(name, picture, height, weight, gender, birthdate, biography) VALUES('Pesho', LOAD_FILE('C:/Users/mihai/Desktop/man.jpg'), '1.70', '70', 'm', "1996-04-17", "lorem ipsum hakuna matata dano da stane nai-nakraq");
 INSERT INTO people(name, picture, height, weight, gender, birthdate, biography) VALUES('Penka', LOAD_FILE('C:/Users/mihai/Desktop/man.jpg'), '1.60', '50', 'f', "1984-01-11", "lorem ipsum hakuna matata dano da stane nai-nakraq");
 INSERT INTO people(name, picture, height, weight, gender, birthdate, biography) VALUES('Gichka', LOAD_FILE('C:/Users/mihai/Desktop/man.jpg'), '1.90', '70', 'f', "2000-10-12", "lorem ipsum hakuna matata dano da stane nai-nakraq");
+
+CREATE TABLE users(
+	id BIGINT UNIQUE AUTO_INCREMENT,
+	username VARCHAR(30) UNIQUE  NOT NULL,
+	password  VARCHAR(26) NOT NULL,
+	profile_picture  BLOB,
+	last_login_time DATE,
+	is_deleted BOOL
+);
+ALTER TABLE users
+ADD CONSTRAINT pk_users PRIMARY KEY(id);
+INSERT INTO users(username, password, last_login_time, is_deleted)
+VALUES ('Gogo', 'spojpe',  '2017-05-15', TRUE),
+('Bobo','epgojro', '2017-08-05', FALSE),
+('Ani',  'rpker', '2017-04-25', TRUE),
+('Sasho',  'rgpjrpe', '2017-05-06', TRUE),
+('Gery', 'pkptkh','2017-01-11', FALSE);
+
+ALTER TABLE users
+DROP PRIMARY KEY,
+ADD CONSTRAINT pk_users PRIMARY KEY (`id`, `username`);
 
 SELECT * FROM departments
 ORDER BY department_id ASC

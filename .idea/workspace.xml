@@ -51,7 +51,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/php.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,15 +79,29 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
+    <configuration name="indexOfLetters.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/indexOfLetters.php">
+      <method v="2" />
+    </configuration>
     <configuration name="phoneBook.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/phoneBook.php">
       <method v="2" />
     </configuration>
     <configuration name="rotateAndSum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
+    <configuration name="sumReversedNumbers.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/sumReversedNumbers.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.phoneBook.php" />
+      <item itemvalue="PHP Script.rotateAndSum.php" />
+      <item itemvalue="PHP Script.sumReversedNumbers.php" />
+      <item itemvalue="PHP Script.indexOfLetters.php" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="PHP Script.phoneBook.php" />
+        <item itemvalue="PHP Script.indexOfLetters.php" />
+        <item itemvalue="PHP Script.sumReversedNumbers.php" />
         <item itemvalue="PHP Script.rotateAndSum.php" />
       </list>
     </recent_temporary>
@@ -123,6 +137,17 @@
       <workItem from="1572785058948" duration="3519000" />
       <workItem from="1572865613267" duration="2971000" />
       <workItem from="1572873645825" duration="83000" />
+      <workItem from="1573372269170" duration="299000" />
+      <workItem from="1573372583366" duration="1844000" />
+      <workItem from="1573380007563" duration="392000" />
+      <workItem from="1573380420212" duration="72000" />
+      <workItem from="1573380515838" duration="970000" />
+      <workItem from="1573381649584" duration="419000" />
+      <workItem from="1573383969255" duration="191000" />
+      <workItem from="1573384264094" duration="813000" />
+      <workItem from="1573482858462" duration="541000" />
+      <workItem from="1573569419976" duration="23000" />
+      <workItem from="1573569456678" duration="257000" />
     </task>
     <servers />
   </component>
@@ -162,6 +187,16 @@
           <url>file://$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/phoneBook.php</url>
           <line>4</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/sumReversedNumbers.php</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/indexOfLetters.php</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
