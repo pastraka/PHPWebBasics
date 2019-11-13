@@ -1,0 +1,5 @@
+SELECT e.department_id,
+COUNT(e.salary) AS 'Salaray Count'
+FROM employees AS e
+GROUP BY e.department_id; 
+
