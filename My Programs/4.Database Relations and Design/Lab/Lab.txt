@@ -1,5 +1,25 @@
 SELECT e.department_id,
 COUNT(e.salary) AS 'Salaray Count'
 FROM employees AS e
-GROUP BY e.department_id; 
+GROUP BY e.department_id;
+
+SELECT e.department_id,
+ROUND (AVG(e.salary), 2) AS 'Average Salary'
+FROM employees AS e
+GROUP BY department_id;
+
+SELECT e.first_name, e.last_name, t.name as town, a.address_text 
+FROM employees AS e
+JOIN addresses AS a ON e.address_id = a.address_id
+JOIN towns AS t ON a.town_id = t.town_id
+ORDER BY e.first_name, e.last_name
+LIMIT 5;
+
+SELECT e.employee_id, e.first_name, e.last_name, d.name 
+FROM employees AS e
+JOIN departments AS d ON e.department_id = d.department_id
+WHERE d.name = 'Sales'
+ORDER BY e.employee_id DESC;
+
+
 
