@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/My Programs/4.Database Relations and Design/Exercises/record'sCount.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +151,7 @@
       <workItem from="1573582340061" duration="176000" />
       <workItem from="1573653593876" duration="567000" />
       <workItem from="1573816508796" duration="24000" />
-      <workItem from="1573816617495" duration="1111000" />
+      <workItem from="1573816617495" duration="1915000" />
     </task>
     <servers />
   </component>
