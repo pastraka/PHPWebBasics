@@ -49,3 +49,13 @@ LEFT JOIN employees_projects as ep ON e.employee_id = ep.employee_id
 WHERE ep.employee_id IS NULL
 ORDER BY e.employee_id DESC
 LIMIT 3;
+
+SELECT e.employee_id, e.first_name, p.name AS project_name
+FROM employees AS e 
+ JOIN employees_projects ep
+ ON e.employee_id = ep.employee_id
+ LEFT OUTER JOIN projects AS p
+ ON ep.project_id = p.project_id
+AND p.start_date < '20050101'
+WHERE e.employee_id = '24'
+ORDER BY p.name;
