@@ -35,3 +35,17 @@ FROM employees AS e
 JOIN addresses as a ON e.address_id = a.address_id
 ORDER BY a.address_id
 LIMIT 5;
+
+SELECT e.employee_id, e.first_name, e.salary, d.department_id
+FROM employees AS e
+JOIN departments as d ON e.department_id = d.department_id
+WHERE salary > '15000'
+ORDER BY d.department_id DESC
+LIMIT 5;
+
+SELECT e.employee_id, e.first_name
+FROM employees AS e 
+LEFT JOIN employees_projects as ep ON e.employee_id = ep.employee_id
+WHERE ep.employee_id IS NULL
+ORDER BY e.employee_id DESC
+LIMIT 3;
