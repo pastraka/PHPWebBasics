@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My Programs/4.Database Relations and Design/Exercises/mySqli.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +68,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="SQL Resolution Scopes" />
     <property name="settings.editor.splitter.proportion" value="0.2319842" />
   </component>
   <component name="RunDashboard">
@@ -75,11 +83,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.phoneBook.php">
+  <component name="RunManager" selected="PHP Script.mySqli.php">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
     <configuration name="indexOfLetters.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/indexOfLetters.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="mySqli.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/My Programs/4.Database Relations and Design/Exercises/mySqli.php">
       <method v="2" />
     </configuration>
     <configuration name="phoneBook.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/phoneBook.php">
@@ -96,9 +107,11 @@
       <item itemvalue="PHP Script.rotateAndSum.php" />
       <item itemvalue="PHP Script.sumReversedNumbers.php" />
       <item itemvalue="PHP Script.indexOfLetters.php" />
+      <item itemvalue="PHP Script.mySqli.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.mySqli.php" />
         <item itemvalue="PHP Script.phoneBook.php" />
         <item itemvalue="PHP Script.indexOfLetters.php" />
         <item itemvalue="PHP Script.sumReversedNumbers.php" />
@@ -152,6 +165,7 @@
       <workItem from="1573653593876" duration="567000" />
       <workItem from="1573816508796" duration="24000" />
       <workItem from="1573816617495" duration="1915000" />
+      <workItem from="1573893784203" duration="2978000" />
     </task>
     <servers />
   </component>
