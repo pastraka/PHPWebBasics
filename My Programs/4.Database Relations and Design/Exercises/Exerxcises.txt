@@ -1,55 +1,56 @@
+1.
 SELECT COUNT(id) AS 'count'
 FROM wizzard_deposits;
-
+2.
 SELECT MAX(magic_wand_size) AS longest_magic_wand
 FROM wizzard_deposits;
-
+3.
 SELECT deposit_group, MAX(magic_wand_size) AS longest_magic_wand
 FROM wizzard_deposits
 GROUP BY deposit_group
 ORDER BY longest_magic_wand ASC, deposit_group ASC;
-
+4.
 SELECT deposit_group
 FROM wizzard_deposits
 GROUP BY deposit_group
 ORDER BY AVG(magic_wand_size)
 LIMIT 1;
-
+5.
 SELECT deposit_group, SUM(deposit_amount) AS total_sum
 FROM wizzard_deposits
 GROUP BY deposit_group
 ORDER BY total_sum;
-
+6.
 SELECT COUNT(category_id)
 FROM products
 WHERE category_id = '2'
 AND price > '8'
-
+7.
 SELECT category_id AS category_id, ROUND(AVG(price), 2) AS average_price,
 MIN(price) AS cheapest_product, MAX(price) AS most_expensive_product
 FROM products
 GROUP BY category_id;
-
+8.
 SELECT e.employee_id, e.job_title, a.address_id, a.address_text
 FROM employees AS e
 JOIN addresses as a ON e.address_id = a.address_id
 ORDER BY a.address_id
 LIMIT 5;
-
+9.
 SELECT e.employee_id, e.first_name, e.salary, d.department_id
 FROM employees AS e
 JOIN departments as d ON e.department_id = d.department_id
 WHERE salary > '15000'
 ORDER BY d.department_id DESC
 LIMIT 5;
-
+10.
 SELECT e.employee_id, e.first_name
 FROM employees AS e 
 LEFT JOIN employees_projects as ep ON e.employee_id = ep.employee_id
 WHERE ep.employee_id IS NULL
 ORDER BY e.employee_id DESC
 LIMIT 3;
-
+11.
 SELECT e.employee_id, e.first_name, p.name AS project_name
 FROM employees AS e 
  JOIN employees_projects ep
@@ -59,14 +60,14 @@ FROM employees AS e
 AND p.start_date < '20050101'
 WHERE e.employee_id = '24'
 ORDER BY p.name;
-
+12.
 SELECT e.employee_id, e.first_name, e.manager_id, m.first_name AS manager_name
 FROM employees AS e 
  JOIN employees AS m 
  ON m.employee_id = e.manager_id
  WHERE e.manager_id IN (3, 7)
  ORDER BY e.first_name;
-
+13.
 SELECT e.employee_id,
  CONCAT(e.first_name, ' ', e.last_name) AS employee_name,
 CONCAT(em.first_name, ' ', em.last_name) as manager_name,
@@ -74,7 +75,7 @@ CONCAT(em.first_name, ' ', em.last_name) as manager_name,
 FROM employees AS e
 JOIN employees AS em 
 ON e.manager_id = em.employee_id 
-
+14.
 JOIN departments AS d 
 ON d.department_id = e.department_id
 WHERE e.manager_id IS NOT NULL
