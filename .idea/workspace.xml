@@ -5,125 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/condenseArrayToNumber.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/examShopping.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/filterBase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/indexOfLetters.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/lastKNumbersSumsSequence.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/maxSequenceOfEqualElements.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/maxSequenceOfIncreasingElements.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/maximalSum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/maximumSumOf2X2Submatrix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/mixedPhones.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/mostFrequentNumber.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/phoneBook.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/phoneBookUpgrade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/pointsCounter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/reverseAnArrayOfStrings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/rotateAndSum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/sumMatrixElements.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/sumReversedNumbers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/userLogins.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/FindMinAndMaxElement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/countRealNumbers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/diagonalDifference.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/fillTheMatrix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/letterRepetititon.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/oddOccurrences.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/periodicTable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/printMonth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/reverseArray.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/roundingNumbersAwayFromZero.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/sumArray.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/sumByTown.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/tripleSum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/capitalCaseWords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/coloringTexts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/dumpHTTPGetRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/formData.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/helloPerson.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/htmlTable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/navigationBuilder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/sortLines.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/sumTwoNumbers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/wordMapping.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Lab/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Lab/headings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Lab/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Lab/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Lab/paragraphs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Lab/todo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Lab/website/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Lab/website/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Lab/website/todo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Lab/welcomeToHtml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/3.Introduction to MySQL/Exercises/Exercises.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/3.Introduction to MySQL/Lab/LAB.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/Exercises/Exerxcises.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/Exercises/mySQLi_&amp;_PDO.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/Lab/Lab.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/condenseArrayToNumber.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/examShopping.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/filterBase.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/indexOfLetters.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/lastKNumbersSumsSequence.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/maxSequenceOfEqualElements.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/maxSequenceOfIncreasingElements.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/maximalSum.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/maximumSumOf2X2Submatrix.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/mixedPhones.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/mostFrequentNumber.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/phoneBook.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/phoneBookUpgrade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/pointsCounter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/reverseAnArrayOfStrings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/sumMatrixElements.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/sumReversedNumbers.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/userLogins.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/FindMinAndMaxElement.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/countRealNumbers.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/diagonalDifference.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/fillTheMatrix.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/letterRepetititon.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/oddOccurrences.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/periodicTable.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/printMonth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/reverseArray.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/roundingNumbersAwayFromZero.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/sumArray.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/sumByTown.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/1.Intro to PHP/Lab/tripleSum.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Exercises/capitalCaseWords.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Exercises/coloringTexts.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Exercises/dumpHTTPGetRequest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Exercises/formData.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Exercises/helloPerson.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Exercises/htmlTable.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Exercises/navigationBuilder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Exercises/sortLines.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Exercises/sumTwoNumbers.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Exercises/wordMapping.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Lab/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Lab/headings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Lab/hello.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Lab/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Lab/paragraphs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Lab/todo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Lab/website/hello.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Lab/website/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Lab/website/todo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/2.HTTP and HTML Basics/Lab/welcomeToHtml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/3.Introduction to MySQL/Exercises/Exercises.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/3.Introduction to MySQL/Lab/LAB.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/4.Database Relations and Design/Exercises/Exerxcises.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/4.Database Relations and Design/Exercises/mySqli.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My Programs/4.Database Relations and Design/Lab/Lab.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/Exercises/mySQLi_&amp;_PDO.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/Exercises/mySQLi_&amp;_PDO.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +30,23 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="softuni: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FavoritesManager">
@@ -198,7 +97,7 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.mySQLi_&amp;_PDO.php">
-    <configuration name="mySQLi_&amp;_PDO.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHPWebBasics/My Programs/4.Database Relations and Design/Exercises/mySQLi_&amp;_PDO.php" useBuiltInWebServerPort="true">
+    <configuration name="mySQLi_&amp;_PDO.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHPWebBasics/MyPrograms/4.DatabaseRelationsAndDesign/Exercises/mySQLi_&amp;_PDO.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="mySQLi_&amp;_PDO.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/PHPWebBasics/MyPrograms/4.DatabaseRelationsAndDesign/Exercises/mySQLi_&amp;_PDO.php">
@@ -216,11 +115,15 @@
     <configuration name="phoneBook.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/phoneBook.php">
       <method v="2" />
     </configuration>
+    <configuration name="rotateAndSum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" nameIsGenerated="true" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.mySQLi_&amp;_PDO.php" />
+      <item itemvalue="PHP Script.rotateAndSum.php" />
       <item itemvalue="PHP Script.phoneBook.php" />
       <item itemvalue="PHP Script.indexOfLetters.php" />
       <item itemvalue="PHP Script.condenseArrayToNumber.php" />
+      <item itemvalue="JavaScript Debug.mySQLi_&amp;_PDO.php" />
     </list>
     <recent_temporary>
       <list>
@@ -281,7 +184,8 @@
       <workItem from="1573893784203" duration="5489000" />
       <workItem from="1574080489072" duration="9108000" />
       <workItem from="1574167465039" duration="425000" />
-      <workItem from="1574168102927" duration="4817000" />
+      <workItem from="1574168102927" duration="5552000" />
+      <workItem from="1574196289244" duration="2462000" />
     </task>
     <servers />
   </component>
