@@ -1,6 +1,6 @@
 <?php
 include_once "db/db_connection.php";
-include_once "templates/register_form.php";
+$response = '';
 
 if (isset($_POST['username'], $_POST['password'])) {
     $username = $_POST['username'];
@@ -13,6 +13,7 @@ if (isset($_POST['username'], $_POST['password'])) {
         header("Location: login.php");
         exit;
     } else {
-        echo "Error!";
+        $response = "Error!";
     }
 }
+include_once "templates/register_form.php";

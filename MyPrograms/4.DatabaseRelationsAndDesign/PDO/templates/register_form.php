@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Register form</title>
+    <link rel="stylesheet" href="templates/style/style.css">
 </head>
 <body>
 <form method="post">
@@ -14,5 +15,8 @@
     </label><br/>
     <input type="submit" value="Submit Query"/>
 </form>
+<div id="response">
+    <?= $response; ?>
+</div>
 </body>
 </html>
