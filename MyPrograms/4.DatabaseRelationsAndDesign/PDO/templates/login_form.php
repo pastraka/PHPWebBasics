@@ -5,6 +5,7 @@
     <title>Login form</title>
 </head>
 <body>
+<h1>Login form</h1>
 <form method="post">
     Username:<label>
         <input type="text" name="username"/>

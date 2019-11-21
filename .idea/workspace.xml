@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/login_form.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/user_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/user_queries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/login_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/login_form.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/register_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/register_form.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,10 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.login_form.php">
-    <configuration name="login_form.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHPWebBasics/MyPrograms/4.DatabaseRelationsAndDesign/login_form.php" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.register.php">
     <configuration name="mySQLi_&amp;_PDO.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/PHPWebBasics/MyPrograms/4.DatabaseRelationsAndDesign/Exercises/mySQLi_&amp;_PDO.php">
       <method v="2" />
     </configuration>
@@ -127,33 +123,16 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
-    <configuration name="condenseArrayToNumber.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/condenseArrayToNumber.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="indexOfLetters.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/indexOfLetters.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="phoneBook.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/phoneBook.php">
-      <method v="2" />
-    </configuration>
     <configuration name="rotateAndSum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" nameIsGenerated="true" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.register.php" />
       <item itemvalue="PHP Script.rotateAndSum.php" />
-      <item itemvalue="PHP Script.phoneBook.php" />
-      <item itemvalue="PHP Script.indexOfLetters.php" />
-      <item itemvalue="PHP Script.condenseArrayToNumber.php" />
-      <item itemvalue="JavaScript Debug.login_form.php" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.login_form.php" />
         <item itemvalue="JavaScript Debug.register.php" />
-        <item itemvalue="JavaScript Debug.mySQLi_&amp;_PDO.php" />
-        <item itemvalue="PHP Script.condenseArrayToNumber.php" />
-        <item itemvalue="PHP Script.phoneBook.php" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +186,7 @@
       <workItem from="1574080489072" duration="9108000" />
       <workItem from="1574167465039" duration="425000" />
       <workItem from="1574168102927" duration="5552000" />
-      <workItem from="1574196289244" duration="21863000" />
+      <workItem from="1574196289244" duration="25196000" />
     </task>
     <servers />
   </component>

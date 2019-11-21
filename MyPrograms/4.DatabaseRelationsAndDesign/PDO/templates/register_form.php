@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
+<h1>Register form</h1>
 <form method="post">
     Username:<label>
         <input type="text" name="username"/>

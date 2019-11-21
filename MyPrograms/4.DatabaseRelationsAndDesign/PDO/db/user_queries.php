@@ -1,4 +1,22 @@
 <?php
+function issueAuthenticationString(PDO $db, int $userId): string
+{
+    $query = "SELECT auth_string FROM authentications WHERE user_id = ?";
+
+    $stmt = $db->prepare($query);
+    $stmt->execute([$userId]);
+    $data = $stmt->fetch(PDO::FETCH_ASSOC);
+    if ($data && $data['auth_string']) {
+        return $data['auth_string'];
+    }
+
+    $authString = uniqid();
+    $query = "INSERT INTO authentications(auth_string, user_id) VALUES (?, ?)";
+    $stmt = $db->prepare($query);
+    $stmt->execute([$authString, $userId]);
+    return $authString;
+}
+
 function verifyCredentials(PDO $db, string $username, string $password): int
 {
     $query = "SELECT id, password FROM php_web_test.users WHERE username = ?";
