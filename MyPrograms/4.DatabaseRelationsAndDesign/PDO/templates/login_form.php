@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Register form</title>
-    <link rel="stylesheet" href="style/style.css">
+    <title>Login form</title>
 </head>
 <body>
 <form method="post">
