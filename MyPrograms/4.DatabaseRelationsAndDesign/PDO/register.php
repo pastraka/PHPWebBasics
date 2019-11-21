@@ -1,15 +1,14 @@
 <?php
-include "db_connection.php";
-include_once 'register_form.php';
+include_once "db/db_connection.php";
+include_once "templates/register_form.php";
 
 if (isset($_POST['username'], $_POST['password'])) {
     $username = $_POST['username'];
     $password = $_POST['password'];
-    $query = "INSERT INTO users (username, password) VALUES (?, ?)";
-    echo $query;
-    password_hash($password, PASSWORD_ARGON2I);
-    $statement = $db->prepare($query);
-    $result = $statement->execute([$username, password_hash($password, PASSWORD_ARGON2I)]);
+
+    include_once 'db/user_queries.php';
+    $result = register($db, $username, $password);
+
     if ($result) {
         header("Location: login.php");
         exit;
