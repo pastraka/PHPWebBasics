@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/category_query.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/categories_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/categories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/common.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/common.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/category_query.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/category_queries.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/user_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/user_queries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/categories_list.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/categories_list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/login_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/login_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/register_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/register_form.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,8 +112,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.register.php">
+  <component name="RunManager" selected="JavaScript Debug.categories.php">
+    <configuration name="categories.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/PHPWebBasics/MyPrograms/4.DatabaseRelationsAndDesign/PDO/categories.php">
+      <method v="2" />
+    </configuration>
     <configuration name="mySQLi_&amp;_PDO.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/PHPWebBasics/MyPrograms/4.DatabaseRelationsAndDesign/Exercises/mySQLi_&amp;_PDO.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="register.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/PHPWebBasics/MyPrograms/4.DatabaseRelationsAndDesign/PDO/register.php">
       <method v="2" />
     </configuration>
     <configuration name="register.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/PHPWebBasics/MyPrograms/4.DatabaseRelationsAndDesign/PDO/register.php">
@@ -122,10 +134,14 @@
     <list>
       <item itemvalue="JavaScript Debug.mySQLi_&amp;_PDO.php" />
       <item itemvalue="JavaScript Debug.register.php" />
+      <item itemvalue="JavaScript Debug.categories.php" />
       <item itemvalue="PHP Script.rotateAndSum.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.categories.php" />
+        <item itemvalue="JavaScript Debug.mySQLi_&amp;_PDO.php" />
+        <item itemvalue="JavaScript Debug.register.php" />
         <item itemvalue="JavaScript Debug.register.php" />
       </list>
     </recent_temporary>
@@ -181,7 +197,7 @@
       <workItem from="1574167465039" duration="425000" />
       <workItem from="1574168102927" duration="5552000" />
       <workItem from="1574196289244" duration="27319000" />
-      <workItem from="1574408341743" duration="5689000" />
+      <workItem from="1574408341743" duration="13475000" />
     </task>
     <servers />
   </component>
