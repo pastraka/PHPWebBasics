@@ -14,8 +14,9 @@ if (isset($_POST['username'], $_POST['password'])) {
     if ($userId != -1) {
         $authString = issueAuthenticationString($db, $userId);
         header("Location: categories.php?authId=$authString");
+        exit;
+    }else{
+        $response = "Invalid username and password!";
     }
-    var_dump($userId);
 }
-
 require_once 'templates/login_form.php';
