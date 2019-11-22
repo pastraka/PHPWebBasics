@@ -9,9 +9,13 @@
     Title <input type="text" name="title"><br/>
     Question:<br/>
     <textarea rows="5" cols="30" name="body"></textarea><br/>
-    Category:<br/>
+    Category:
     <select name="category">
-        <option value="1">Test</option>
+        <?php foreach ($categories as $category): ?>
+            <option <?=$category['id'] == $categoryId ? 'selected' : '';?>value="<?= $category['id']; ?>"><?=
+            $category['name'];
+            ?> (<?=$category['questions_count'];?>)</option>
+        <?php endforeach; ?>
     </select>
     <br/><br/>
     Tags:<br/>
