@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/categories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/category_query.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/categories_list.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/categories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/user_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/user_queries.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +48,6 @@
         <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="php_web_test: schema" type="ebfa3cd1:MariaImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="php_web_test: schema" type="ebfa3cd1:MariaImplModel$Schema" />
-        <item name="authentications: table" type="dbc44a63:MariaImplModel$Table" />
       </path>
     </expand>
     <select />
@@ -187,7 +181,7 @@
       <workItem from="1574167465039" duration="425000" />
       <workItem from="1574168102927" duration="5552000" />
       <workItem from="1574196289244" duration="27319000" />
-      <workItem from="1574408341743" duration="3345000" />
+      <workItem from="1574408341743" duration="5689000" />
     </task>
     <servers />
   </component>

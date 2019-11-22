@@ -31,7 +31,7 @@ function issueAuthenticationString(PDO $db, int $userId): string
 
 function verifyCredentials(PDO $db, string $username, string $password): int
 {
-    $query = "SELECT id, password FROM php_web_test.users WHERE username = ?";
+    $query = "SELECT id, password FROM users WHERE username = ?";
 
     $stmt = $db->prepare($query);
     if (!$stmt->execute([$username])) {
@@ -50,7 +50,7 @@ function verifyCredentials(PDO $db, string $username, string $password): int
 
 function register(PDO $db, string $username, string $password): bool
 {
-    $query = "INSERT INTO php_web_test.users (username, password) VALUES (?, ?)";
+    $query = "INSERT INTO users (username, password) VALUES (?, ?)";
     $statement = $db->prepare($query);
     $result = $statement->execute([$username, password_hash($password, PASSWORD_ARGON2I)]);
 
