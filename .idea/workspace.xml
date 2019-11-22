@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/common.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/user_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/user_queries.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,6 +123,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="JavaScript Debug.mySQLi_&amp;_PDO.php" />
       <item itemvalue="JavaScript Debug.register.php" />
       <item itemvalue="PHP Script.rotateAndSum.php" />
     </list>
@@ -185,6 +184,7 @@
       <workItem from="1574167465039" duration="425000" />
       <workItem from="1574168102927" duration="5552000" />
       <workItem from="1574196289244" duration="27319000" />
+      <workItem from="1574408341743" duration="529000" />
     </task>
     <servers />
   </component>
