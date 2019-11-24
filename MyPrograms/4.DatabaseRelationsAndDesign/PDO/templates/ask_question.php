@@ -19,8 +19,12 @@
     </select>
     <br/><br/>
     Tags:<br/>
-    <select multiple="multiple" name="existing_tags">
-        <option value="1">Test tags</option>
+    <select multiple="multiple" name="existing_tags[]">
+        <?php foreach ($tags as $tag): ?>
+            <option value="<?= $tag['id']; ?>"><?=
+                $tag['name'];
+                ?> (<?=$tag['questions_count'];?>)</option>
+        <?php endforeach; ?>
     </select>
     <br/><br/>
     Add tags:<br/><input type="text" name="new_tags" placeholder="Enter your tags separated by comma... "/>

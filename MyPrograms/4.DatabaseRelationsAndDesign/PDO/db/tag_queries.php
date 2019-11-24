@@ -1,4 +1,21 @@
 <?php
+function findTag(PDO $db, string $tagName): int
+{
+    $query="SELECT id FROM tags WHERE name = ?";
+    $stmt = $db->prepare($query);
+    $stmt->execute($tagName);
+    $data = $stmt->fetch(PDO::FETCH_ASSOC);
+    if ($data && $data['id']){
+        return (int)$data['id'];
+    }
+
+    $query = "INSERT INTO tags (name) VALUES (?)";
+    $stmt = $db->prepare($query);
+    $stmt->execute($tagName);
+
+    return (int)$db->lastInsertId();
+}
+
 function getAllTags(PDO $db): array
 {
     $query = "
