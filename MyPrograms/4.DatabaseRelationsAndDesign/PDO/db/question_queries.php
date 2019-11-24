@@ -7,7 +7,7 @@ function createQuestion(PDO $db, int $userId, string $title, string $body, int $
         $existingTags[] = $tagId;
     }
 
-    $query = "INSERT INTO questions(titlle, body, category_id, author_id, created_on) VALUES (?, ?, ?, ?, NOW());
+    $query = "INSERT INTO questions(title, body, category_id, author_id, created_on) VALUES (?, ?, ?, ?, NOW());
 ";
     $stmt = $db->prepare($query);
     $stmt->execute([$title, $body, $category, $userId]);
