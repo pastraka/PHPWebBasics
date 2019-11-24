@@ -33,4 +33,7 @@ function getQuestionById(PDO $db, int $id): array
             INNER JOIN 
                      categories c on q.category_id = c.id
             WHERE q.id = ?";
+    $stmt = $db->prepare($query);
+    $stmt->execute([$id]);
+    return $stmt->fetch(PDO::FETCH_ASSOC);
 }

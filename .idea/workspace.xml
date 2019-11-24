@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/question.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/answer_queries.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/question.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/question_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/question_queries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/question.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,12 +107,20 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration name="question.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHPWebBasics/MyPrograms/4.DatabaseRelationsAndDesign/PDO/question.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="register.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/PHPWebBasics/MyPrograms/4.DatabaseRelationsAndDesign/PDO/register.php">
       <method v="2" />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.question.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="allServicesViewState">
@@ -164,7 +174,7 @@
       <workItem from="1574168102927" duration="5552000" />
       <workItem from="1574196289244" duration="27319000" />
       <workItem from="1574408341743" duration="21678000" />
-      <workItem from="1574580235047" duration="5616000" />
+      <workItem from="1574580235047" duration="7989000" />
     </task>
     <servers />
   </component>
