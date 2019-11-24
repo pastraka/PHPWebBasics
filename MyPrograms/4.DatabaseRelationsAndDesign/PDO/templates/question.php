@@ -5,6 +5,7 @@
     <title>Question</title>
 </head>
 <body>
+<a href="<?=url("category.php?id={$question['category_id']}") ;?>">Back to questions in this category</a>
 <div class="question">
     <span>
         Title:

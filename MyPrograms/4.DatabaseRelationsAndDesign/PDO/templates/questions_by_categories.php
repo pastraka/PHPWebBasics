@@ -5,6 +5,8 @@
     <title>Questions</title>
 </head>
 <body>
+<a href="<?=url("categories.php?") ;?>">Back to questions all categories</a>
+|
 <a href="<?= url("ask_question.php?category_id=$id"); ?>">Ask new question</a>
 <hr/>
 <?php foreach ($questions as $question): ?>
