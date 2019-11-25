@@ -5,6 +5,8 @@
     <title>Categories</title>
 </head>
 <body>
+<?php include_once 'logged_in_header.php'; ?>
+
 <table border="2">
     <thead>
     <tr>

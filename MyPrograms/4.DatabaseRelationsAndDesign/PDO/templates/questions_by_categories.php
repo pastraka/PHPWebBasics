@@ -5,6 +5,8 @@
     <title>Questions</title>
 </head>
 <body>
+<?php include_once 'logged_in_header.php'; ?>
+
 <a href="<?=url("categories.php?") ;?>">Back to questions all categories</a>
 |
 <a href="<?= url("ask_question.php?category_id=$id"); ?>">Ask new question</a>

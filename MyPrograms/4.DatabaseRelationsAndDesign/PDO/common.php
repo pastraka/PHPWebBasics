@@ -2,7 +2,7 @@
 require_once 'db/db_connection.php';
 require_once 'db/user_queries.php';
 
-if (!isset($_GET{'authId'})) {
+if (!isset($_GET['authId'])) {
     header("Location: login.php");
     exit;
 }
@@ -17,5 +17,5 @@ if ($userId == -1) {
 function url(string $url): string
 {
     $symbol = strstr($url, "?") ? '&' : '?';
-    return $url . "($symbol)authId=" . $_GET['authId'];
+    return $url . "{$symbol}authId=" . $_GET['authId'];
 }

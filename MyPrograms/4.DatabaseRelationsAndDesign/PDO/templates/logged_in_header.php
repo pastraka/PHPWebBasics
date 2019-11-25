@@ -1,1 +1,1 @@
-<a href="<?= url("logout.php"); ?>">Logout</a>
+<a href="<?= url("logout.php"); ?>">Logout</a> |
