@@ -7,6 +7,10 @@
 <body>
 <?php include_once 'logged_in_header.php'; ?>
 
+<?php if (hasRole($db, $userId, 'ADMIN')): ?>
+    <a href="create_category.php">Create new category</a> |
+<?php endif; ?>
+
 <table border="2">
     <thead>
     <tr>
