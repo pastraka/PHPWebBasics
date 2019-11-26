@@ -7,7 +7,7 @@
 <body>
 <?php include_once 'logged_in_header.php'; ?>
 
-<a href="<?=url("categories.php?") ;?>">Back to questions all categories</a>
+<a href="<?= url("categories.php?"); ?>">Back to questions all categories</a>
 |
 <a href="<?= url("ask_question.php?category_id=$id"); ?>">Ask new question</a>
 <hr/>
@@ -25,6 +25,17 @@
         <span><?= htmlspecialchars($question['author_name']); ?></span>
         <span><?= $question['created_on']; ?></span>
         <span><?= $question['category_name']; ?></span>
+    </div>
+    <div>
+        <?php if (hasLiked($db, $userId, $question['id'])): ?>
+            <a href="<?= url("category.php?id={$_GET['id']} &action=removeLike&question_id={$question['id']}");
+            ?>">Remove (<?= $question['likes_count']; ?>)
+                like</a>
+        <?php else: ?>
+            <a href="<?= url("category.php?id={$_GET['id']} &action=like&question_id={$question['id']}");
+            ?>">Like</a> (<?= $question['likes_count']; ?>)
+
+        <?php endif; ?>
     </div>
 <?php endforeach; ?>
 </body>

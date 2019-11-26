@@ -1,5 +1,6 @@
 <?php
 require_once 'tag_queries.php';
+
 function createQuestion(PDO $db, int $userId, string $title, string $body, int $category, array $existingTags, array $newTags): int
 {
     foreach ($newTags as $newTag) {

@@ -10,7 +10,8 @@ function createCategory(PDO $db, string $name)
 function getQuestionsByCategoryId(PDO $db, int $categoryId): array
 {
     $query = "
-        SELECT q.id, q.title, q.author_id, u.username AS 'author_name', c.name AS 'category_name', q.created_on, COUNT(a.id) AS answers_count
+        SELECT q.id, q.title, q.author_id, u.username AS 'author_name', c.name AS 'category_name', q.created_on, COUNT(a.id) AS answers_count,
+        (SELECT COUNT (user_id) FROM user_likes WHERE user_likes.question_id = q.id) AS 'likes_count'
         FROM questions AS q
         INNER JOIN users u ON q.author_id = u.id
         INNER JOIN categories c on q.category_id = c.id
