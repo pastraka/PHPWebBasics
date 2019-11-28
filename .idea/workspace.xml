@@ -4,10 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/question.php" afterDir="false" />
-    </list>
+    <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +208,7 @@
       <workItem from="1574580235047" duration="11131000" />
       <workItem from="1574666927174" duration="8757000" />
       <workItem from="1574753632609" duration="10792000" />
-      <workItem from="1574859588664" duration="1842000" />
+      <workItem from="1574859588664" duration="2544000" />
     </task>
     <servers />
   </component>
