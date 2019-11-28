@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/ask_question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/ask_question.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/categories.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/category.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/common.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/common.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/create_category.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/create_category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/category_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/category_queries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/tag_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/tag_queries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/user_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/db/user_queries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/question.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/ask_question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/ask_question.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/categories_list.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/categories_list.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/questions_by_categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/PDO/templates/questions_by_category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/ask_question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/ask_question.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/category.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/common.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/common.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/db/category_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/db/category_queries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/db/user_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/db/user_queries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/templates/ask_question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/templates/ask_question.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/templates/categories_list.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/templates/categories_list.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/templates/questions_by_category.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/templates/questions_by_category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/question.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +101,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/pDO.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -232,6 +211,7 @@
       <workItem from="1574580235047" duration="11131000" />
       <workItem from="1574666927174" duration="8757000" />
       <workItem from="1574753632609" duration="10792000" />
+      <workItem from="1574859588664" duration="1234000" />
     </task>
     <servers />
   </component>

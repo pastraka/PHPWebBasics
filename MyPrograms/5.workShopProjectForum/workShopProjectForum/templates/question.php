@@ -1,4 +1,3 @@
-<marquee>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,5 +41,4 @@
 </form>
 </body>
 </html>
-</marquee>
 
