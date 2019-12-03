@@ -4,8 +4,11 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/symmetryCheck.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/symmetryCheck.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +85,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpDebugGeneral" show_user_defined_constants="false" />
   <component name="PhpServers">
     <servers>
       <server host="localhost" id="8af5969f-09b1-4c66-834e-dc965e098ea5" name="PHP" use_path_mappings="true" />
@@ -92,6 +96,11 @@
   <component name="ProjectId" id="1T3hy4png6USiZB6YpaEsAdb98v" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -118,49 +127,29 @@
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO\DB" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
-    <configuration name="register.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/PHPWebBasics/MyPrograms/4.DatabaseRelationsAndDesign/workShopProjectForum/register.php">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
+    <configuration name="symmetryCheck.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/symmetryCheck.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.register.php" />
+        <item itemvalue="PHP Script.symmetryCheck.php" />
       </list>
     </recent_temporary>
   </component>
   <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <treeState>
-          <expand>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@6f15e389" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@6f15e389" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@51ca1fa5" type="9fbbdea:ServiceModel$ServiceNode" />
-            </path>
-          </expand>
-          <select />
-        </treeState>
-      </serviceView>
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -208,7 +197,9 @@
       <workItem from="1574580235047" duration="11131000" />
       <workItem from="1574666927174" duration="8757000" />
       <workItem from="1574753632609" duration="10792000" />
-      <workItem from="1574859588664" duration="2544000" />
+      <workItem from="1574859588664" duration="3921000" />
+      <workItem from="1575315452607" duration="44000" />
+      <workItem from="1575315537562" duration="3710000" />
     </task>
     <servers />
   </component>
@@ -240,6 +231,52 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575318052035">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1575318052034" />
+    <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575315491479">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1575315491479" />
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1575319266725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575319266725" />
+    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1575319266725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575319266725" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1575319266725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575319266725" />
+    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1575319266725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575319266725" />
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1575319266725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575319266725" />
+    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1575319266725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1575319266725" />
+    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1575319266725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1575319266725" />
+    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1575319266725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1575319266725" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1575315537492">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1575315537492" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
