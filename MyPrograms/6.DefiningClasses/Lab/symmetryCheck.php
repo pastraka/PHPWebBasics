@@ -1,6 +1,7 @@
 <?php
 
-//$str = readline();
+$str = readline();
+
 //function isPalindrome($str)
 //{
 //    return $str === strrev($str);
@@ -11,16 +12,14 @@
 //    echo "false" . PHP_EOL;
 //}
 
-$str = readline();
-
 function isPalindrome($str)
 {
     for ($i = 0; $i < strlen($str) / 2; $i++) {
         if ($str[$i] != $str[strlen($str) - $i - 1]) {
             return false;
         }
-        return true;
     }
+    return true;
 }
 
 if (isPalindrome($str)) {
