@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/roadRadar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/templateFormat.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/symmetryCheck.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/symmetryCheck.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,11 +126,11 @@
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO\DB" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.roadRadar.php">
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
+  <component name="RunManager" selected="JavaScript Debug.templateFormat.php">
+    <configuration name="templateFormat.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/PHPWebBasics/MyPrograms/6.DefiningClasses/Lab/templateFormat.php">
       <method v="2" />
     </configuration>
-    <configuration name="dayOfWeek.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/dayOfWeek.php">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
     <configuration name="insideVolume.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/insideVolume.php">
@@ -144,12 +142,18 @@
     <configuration name="symmetryCheck.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/symmetryCheck.php">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.templateFormat.php" />
+      <item itemvalue="PHP Script.insideVolume.php" />
+      <item itemvalue="PHP Script.roadRadar.php" />
+      <item itemvalue="PHP Script.symmetryCheck.php" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.templateFormat.php" />
         <item itemvalue="PHP Script.roadRadar.php" />
         <item itemvalue="PHP Script.symmetryCheck.php" />
         <item itemvalue="PHP Script.insideVolume.php" />
-        <item itemvalue="PHP Script.dayOfWeek.php" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +217,7 @@
       <workItem from="1574859588664" duration="3921000" />
       <workItem from="1575315452607" duration="44000" />
       <workItem from="1575315537562" duration="3710000" />
-      <workItem from="1575370090532" duration="6656000" />
+      <workItem from="1575370090532" duration="8789000" />
     </task>
     <servers />
   </component>
@@ -247,30 +251,30 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575318052035">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575381599218">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1575318052034" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1575381599218" />
     <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575315491479">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1575315491479" />
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1575379565251">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1575381581747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575379565251" />
-    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1575379565250">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575381581747" />
+    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1575381581747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575379565250" />
-    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1575379565250">
+    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575381581747" />
+    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1575381581746">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575379565250" />
-    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1575379565250">
+    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575381581746" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1575381581747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575379565250" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575381581747" />
     <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1575377910683">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -287,14 +291,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1575377910683" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1575377980148">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1575379656561">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1575377980148" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1575379656561" />
     <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1575370091680">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1575370091680" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1575381301435">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1575381301435" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
