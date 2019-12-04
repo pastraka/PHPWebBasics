@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/methodSaysHello.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/cookingByNumbers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +117,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.SQL" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2319842" />
   </component>
   <component name="RecentsManager">
@@ -126,11 +127,11 @@
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO\DB" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.methodSaysHello.php">
-    <configuration name="templateFormat.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/PHPWebBasics/MyPrograms/6.DefiningClasses/Lab/templateFormat.php">
+  <component name="RunManager" selected="PHP Script.cookingByNumbers.php">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
+    <configuration name="cookingByNumbers.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/cookingByNumbers.php">
       <method v="2" />
     </configuration>
     <configuration name="creatingConstructor.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/creatingConstructor.php">
@@ -146,19 +147,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.templateFormat.php" />
       <item itemvalue="PHP Script.person.php" />
       <item itemvalue="PHP Script.creatingConstructor.php" />
       <item itemvalue="PHP Script.printPeople.php" />
       <item itemvalue="PHP Script.methodSaysHello.php" />
+      <item itemvalue="PHP Script.cookingByNumbers.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.cookingByNumbers.php" />
         <item itemvalue="PHP Script.methodSaysHello.php" />
         <item itemvalue="PHP Script.printPeople.php" />
         <item itemvalue="PHP Script.creatingConstructor.php" />
         <item itemvalue="PHP Script.person.php" />
-        <item itemvalue="JavaScript Debug.templateFormat.php" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +224,7 @@
       <workItem from="1575315452607" duration="44000" />
       <workItem from="1575315537562" duration="3710000" />
       <workItem from="1575370090532" duration="16642000" />
+      <workItem from="1575485435225" duration="4089000" />
     </task>
     <servers />
   </component>
@@ -268,46 +270,54 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1575315491479" />
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1575470336677">
+    <state width="415" height="466" key="DebuggerActiveHint" timestamp="1575487755351">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575470336677" />
-    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1575470336677">
+    <state width="415" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1575487755351" />
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1575489187337">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575470336677" />
-    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1575470336677">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575489187337" />
+    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1575489187337">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575470336677" />
-    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1575470336677">
+    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575489187337" />
+    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1575489187337">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575470336677" />
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1575470336668">
+    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575489187337" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1575489187337">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575470336668" />
-    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1575470336668">
+    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575489187337" />
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1575488236595">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1575470336668" />
-    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1575470336668">
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575488236595" />
+    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1575488236595">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1575470336668" />
-    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1575470336668">
+    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1575488236595" />
+    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1575488236595">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1575470336668" />
+    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1575488236595" />
+    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1575488236595">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1575488236595" />
     <state x="371" y="155" key="NewPhpClassDialog" timestamp="1575383704755">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="155" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1575383704755" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1575469765505">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1575485806684">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1575469765505" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1575485806684" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1575489320884">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575489320884" />
     <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1575485463216">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
