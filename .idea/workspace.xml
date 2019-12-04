@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/methodSaysHello.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/printPeople.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/printPeople.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +126,7 @@
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO\DB" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.printPeople.php">
+  <component name="RunManager" selected="PHP Script.methodSaysHello.php">
     <configuration name="templateFormat.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/PHPWebBasics/MyPrograms/6.DefiningClasses/Lab/templateFormat.php">
       <method v="2" />
     </configuration>
@@ -136,29 +136,29 @@
     <configuration name="creatingConstructor.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/creatingConstructor.php">
       <method v="2" />
     </configuration>
+    <configuration name="methodSaysHello.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/methodSaysHello.php">
+      <method v="2" />
+    </configuration>
     <configuration name="person.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/person.php">
       <method v="2" />
     </configuration>
     <configuration name="printPeople.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/printPeople.php">
       <method v="2" />
     </configuration>
-    <configuration name="roadRadar.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/roadRadar.php">
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.templateFormat.php" />
-      <item itemvalue="PHP Script.roadRadar.php" />
       <item itemvalue="PHP Script.person.php" />
       <item itemvalue="PHP Script.creatingConstructor.php" />
       <item itemvalue="PHP Script.printPeople.php" />
+      <item itemvalue="PHP Script.methodSaysHello.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.methodSaysHello.php" />
         <item itemvalue="PHP Script.printPeople.php" />
         <item itemvalue="PHP Script.creatingConstructor.php" />
         <item itemvalue="PHP Script.person.php" />
         <item itemvalue="JavaScript Debug.templateFormat.php" />
-        <item itemvalue="PHP Script.roadRadar.php" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +222,7 @@
       <workItem from="1574859588664" duration="3921000" />
       <workItem from="1575315452607" duration="44000" />
       <workItem from="1575315537562" duration="3710000" />
-      <workItem from="1575370090532" duration="15634000" />
+      <workItem from="1575370090532" duration="16642000" />
     </task>
     <servers />
   </component>
@@ -268,50 +268,50 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1575315491479" />
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1575467189774">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1575470336677">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575467189774" />
-    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1575467189774">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575470336677" />
+    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1575470336677">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575467189774" />
-    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1575467189774">
+    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575470336677" />
+    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1575470336677">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575467189774" />
-    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1575467189774">
+    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575470336677" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1575470336677">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575467189774" />
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1575377910683">
+    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575470336677" />
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1575470336668">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575377910683" />
-    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1575377910683">
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575470336668" />
+    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1575470336668">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1575377910683" />
-    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1575377910683">
+    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1575470336668" />
+    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1575470336668">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1575377910683" />
-    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1575377910683">
+    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1575470336668" />
+    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1575470336668">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1575377910683" />
+    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1575470336668" />
     <state x="371" y="155" key="NewPhpClassDialog" timestamp="1575383704755">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="155" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1575383704755" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1575457677344">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1575469765505">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1575457677344" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1575370091680">
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1575469765505" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1575485463216">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1575370091680" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1575485463216" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1575381301435">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
