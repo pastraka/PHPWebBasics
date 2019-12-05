@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/modifyAverage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/validityChecker.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,14 +126,11 @@
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO\DB" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.modifyAverage.php">
+  <component name="RunManager" selected="PHP Script.validityChecker.php">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
     <configuration name="cookingByNumbers.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/cookingByNumbers.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="creatingConstructor.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/creatingConstructor.php">
       <method v="2" />
     </configuration>
     <configuration name="methodSaysHello.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/methodSaysHello.php">
@@ -145,20 +142,23 @@
     <configuration name="printPeople.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/printPeople.php">
       <method v="2" />
     </configuration>
+    <configuration name="validityChecker.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/validityChecker.php">
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="PHP Script.creatingConstructor.php" />
       <item itemvalue="PHP Script.printPeople.php" />
       <item itemvalue="PHP Script.methodSaysHello.php" />
       <item itemvalue="PHP Script.cookingByNumbers.php" />
       <item itemvalue="PHP Script.modifyAverage.php" />
+      <item itemvalue="PHP Script.validityChecker.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.validityChecker.php" />
         <item itemvalue="PHP Script.modifyAverage.php" />
         <item itemvalue="PHP Script.cookingByNumbers.php" />
         <item itemvalue="PHP Script.methodSaysHello.php" />
         <item itemvalue="PHP Script.printPeople.php" />
-        <item itemvalue="PHP Script.creatingConstructor.php" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +223,7 @@
       <workItem from="1575315452607" duration="44000" />
       <workItem from="1575315537562" duration="3710000" />
       <workItem from="1575370090532" duration="16642000" />
-      <workItem from="1575485435225" duration="6423000" />
+      <workItem from="1575485435225" duration="8656000" />
     </task>
     <servers />
   </component>
@@ -273,46 +273,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="415" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1575487755351" />
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1575532537701">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1575546367762">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575532537701" />
-    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1575532537701">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575546367762" />
+    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1575546367761">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575532537701" />
-    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1575532537701">
+    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575546367761" />
+    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1575546367761">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575532537701" />
-    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1575532537701">
+    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575546367761" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1575546367762">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575532537701" />
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1575532537701">
+    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575546367762" />
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1575546288375">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575532537701" />
-    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1575532537701">
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575546288375" />
+    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1575546288375">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1575532537701" />
-    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1575532537701">
+    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1575546288375" />
+    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1575546288375">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1575532537701" />
-    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1575532537701">
+    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1575546288375" />
+    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1575546288375">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1575532537701" />
+    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1575546288375" />
     <state x="371" y="155" key="NewPhpClassDialog" timestamp="1575383704755">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="155" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1575383704755" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1575531889092">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1575544326034">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1575531889092" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1575544326034" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1575489320884">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -343,6 +343,11 @@
           <url>file://$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/indexOfLetters.php</url>
           <line>13</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/validityChecker.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
