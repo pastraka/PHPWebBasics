@@ -1,6 +1,5 @@
 <?php
 $input = explode(", ", readline());
-
 shortestSegment($input);
 function shortestSegment($input)
 {
