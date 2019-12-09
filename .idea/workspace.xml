@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/numberInReversedOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +126,7 @@
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO\DB" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.numberInReversedOrder.php">
+  <component name="RunManager" selected="PHP Script.opinionPoll.php">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
@@ -136,29 +136,29 @@
     <configuration name="numberInReversedOrder.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/numberInReversedOrder.php">
       <method v="2" />
     </configuration>
+    <configuration name="opinionPoll.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php">
+      <method v="2" />
+    </configuration>
     <configuration name="radioCrystals.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/radioCrystals.php">
       <method v="2" />
     </configuration>
     <configuration name="superCalculator.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/superCalculator.php">
       <method v="2" />
     </configuration>
-    <configuration name="treasureLocator.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/treasureLocator.php">
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="PHP Script.treasureLocator.php" />
       <item itemvalue="PHP Script.radioCrystals.php" />
       <item itemvalue="PHP Script.superCalculator.php" />
       <item itemvalue="PHP Script.lastDigitName.php" />
       <item itemvalue="PHP Script.numberInReversedOrder.php" />
+      <item itemvalue="PHP Script.opinionPoll.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.opinionPoll.php" />
         <item itemvalue="PHP Script.numberInReversedOrder.php" />
         <item itemvalue="PHP Script.lastDigitName.php" />
         <item itemvalue="PHP Script.superCalculator.php" />
         <item itemvalue="PHP Script.radioCrystals.php" />
-        <item itemvalue="PHP Script.treasureLocator.php" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +226,7 @@
       <workItem from="1575485435225" duration="14075000" />
       <workItem from="1575568707647" duration="9012000" />
       <workItem from="1575802084292" duration="11000" />
-      <workItem from="1575802127308" duration="11201000" />
+      <workItem from="1575802127308" duration="13081000" />
     </task>
     <servers />
   </component>
@@ -284,10 +284,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="469" y="183" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1280.680@0.0.1280.680" timestamp="1575568655945" />
-    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1575897968869">
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1575922381584">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1575897968869" />
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1575922381584" />
     <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575802091754">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -296,22 +296,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="423" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1575729878626" />
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1575898253142">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1575923315611">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575898253142" />
-    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1575898253142">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575923315611" />
+    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1575923315610">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575898253142" />
-    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1575898253142">
+    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575923315610" />
+    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1575923315610">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575898253142" />
-    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1575898253142">
+    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575923315610" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1575923315611">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575898253142" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575923315611" />
     <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1575891913769">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -332,10 +332,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="155" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1575383704755" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1575897885475">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1575898319558">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1575897885475" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1575898319558" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1575897843982">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
