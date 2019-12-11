@@ -2,13 +2,16 @@
 
 class Number
 {
+    /**
+     * @var int
+     */
     private $num;
 
     /**
      * Number constructor.
      * @param $num
      */
-    public function __construct($num)
+    public function __construct(int $num)
     {
         $this->num = $num;
     }
@@ -16,22 +19,14 @@ class Number
     /**
      * @return mixed
      */
-    public function getNum()
+    public function getNum(): string
     {
         return $this->num;
     }
 
-    /**
-     * @param mixed $num
-     */
-    public function setNum($num): void
-    {
-        $this->num = $num;
-    }
-
     function name()
     {
-        $num = substr($this->getNum(), -1);
+        $num = substr($this->getNum(), -1); // => substr($this->getnum(), -1) === $this->getnum() % 10
 
         switch ($num) {
             case 0: return "zero"; break;
