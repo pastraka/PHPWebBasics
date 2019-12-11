@@ -38,7 +38,7 @@ class Number
             case 6: return "six"; break;
             case 7: return "seven"; break;
             case 8: return "eight"; break;
-            case 9: return "nine"; break;
+            default: return "nine"; break;
         }
     }
 }
