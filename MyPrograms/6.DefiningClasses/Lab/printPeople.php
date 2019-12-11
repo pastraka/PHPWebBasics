@@ -2,9 +2,9 @@
 
 class Person
 {
-    private $name;
-    private $age;
-    private $occupation;
+    private string $name;
+    private int $age;
+    private string $occupation;
 
     /**
      * Person constructor.

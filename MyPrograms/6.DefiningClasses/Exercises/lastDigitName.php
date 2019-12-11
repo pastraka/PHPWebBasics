@@ -5,7 +5,7 @@ class Number
     /**
      * @var int
      */
-    private $num;
+    private int $num;
 
     /**
      * Number constructor.
@@ -19,7 +19,7 @@ class Number
     /**
      * @return mixed
      */
-    public function getNum(): string
+    public function getNum()
     {
         return $this->num;
     }

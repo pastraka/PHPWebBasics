@@ -2,7 +2,10 @@
 
 class DecimalNumber
 {
-    private $num;
+    /**
+     * @var string
+     */
+    private string $num;
 
     /**
      * DecimalNumber constructor.
@@ -19,14 +22,6 @@ class DecimalNumber
     public function getNum()
     {
         return $this->num;
-    }
-
-    /**
-     * @param mixed $num
-     */
-    public function setNum($num): void
-    {
-        $this->num = $num;
     }
 
     function reverse()

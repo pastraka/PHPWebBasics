@@ -2,8 +2,11 @@
 
 class Person
 {
-    private $name;
-    private $age;
+    /**
+     * @var string
+     */
+    private string $name;
+    private int $age;
 
     /**
      * Person constructor.
