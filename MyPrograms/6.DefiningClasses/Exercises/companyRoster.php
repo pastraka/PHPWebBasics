@@ -2,12 +2,12 @@
 
 class Employee
 {
-    private string $name;
-    private float $salary;
-    private string $position;
-    private string $department;
-    private string $email;
-    private int $age;
+    private $name;
+    private $salary;
+    private $position;
+    private $department;
+    private $email;
+    private $age;
 
     /**
      * Employee constructor.

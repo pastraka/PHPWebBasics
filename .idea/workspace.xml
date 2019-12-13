@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/oldestFamilyMember.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/lastDigitName.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/lastDigitName.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/numberInReversedOrder.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/numberInReversedOrder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/printPeople.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/printPeople.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/dayOfWeek.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/dayOfWeek.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,9 +106,10 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/php.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -119,7 +119,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2319842" />
   </component>
   <component name="RecentsManager">
@@ -129,8 +129,11 @@
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO\DB" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.lastDigitName.php">
+  <component name="RunManager" selected="PHP Script.oldestFamilyMember.php">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="dayOfWeek.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/dayOfWeek.php">
       <method v="2" />
     </configuration>
     <configuration name="lastDigitName.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/lastDigitName.php">
@@ -139,29 +142,26 @@
     <configuration name="numberInReversedOrder.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/numberInReversedOrder.php">
       <method v="2" />
     </configuration>
+    <configuration name="oldestFamilyMember.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/oldestFamilyMember.php">
+      <method v="2" />
+    </configuration>
     <configuration name="opinionPoll.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php">
       <method v="2" />
     </configuration>
-    <configuration name="radioCrystals.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/radioCrystals.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="superCalculator.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/superCalculator.php">
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="PHP Script.radioCrystals.php" />
-      <item itemvalue="PHP Script.superCalculator.php" />
       <item itemvalue="PHP Script.lastDigitName.php" />
       <item itemvalue="PHP Script.numberInReversedOrder.php" />
       <item itemvalue="PHP Script.opinionPoll.php" />
+      <item itemvalue="PHP Script.dayOfWeek.php" />
+      <item itemvalue="PHP Script.oldestFamilyMember.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.oldestFamilyMember.php" />
+        <item itemvalue="PHP Script.dayOfWeek.php" />
         <item itemvalue="PHP Script.lastDigitName.php" />
         <item itemvalue="PHP Script.opinionPoll.php" />
         <item itemvalue="PHP Script.numberInReversedOrder.php" />
-        <item itemvalue="PHP Script.superCalculator.php" />
-        <item itemvalue="PHP Script.radioCrystals.php" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +230,11 @@
       <workItem from="1575568707647" duration="9012000" />
       <workItem from="1575802084292" duration="11000" />
       <workItem from="1575802127308" duration="17588000" />
+      <workItem from="1576174579150" duration="225000" />
+      <workItem from="1576174830066" duration="416000" />
+      <workItem from="1576175472391" duration="306000" />
+      <workItem from="1576175904965" duration="1049000" />
+      <workItem from="1576227259982" duration="1683000" />
     </task>
     <servers />
   </component>
@@ -263,10 +268,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="0" key="#CLI_Interpreters" timestamp="1575568623540">
+    <state x="221" y="0" key="#CLI_Interpreters" timestamp="1576236247746">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="221" y="0" key="#CLI_Interpreters/0.0.1280.680@0.0.1280.680" timestamp="1575568623540" />
+    <state x="221" y="0" key="#CLI_Interpreters/0.0.1280.680@0.0.1280.680" timestamp="1576236247746" />
     <state x="233" y="0" key="#Inspections" timestamp="1575897573049">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -279,74 +284,86 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1575897743515" />
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575569345528">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576236239630">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1575569345528" />
-    <state x="469" y="183" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1575568655945">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1576236239630" />
+    <state x="469" y="183" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1576227452212">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="469" y="183" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1280.680@0.0.1280.680" timestamp="1575568655945" />
-    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1575923902216">
+    <state x="469" y="183" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1280.680@0.0.1280.680" timestamp="1576227452212" />
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1576235278193">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1575923902216" />
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1576235278193" />
     <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575802091754">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1575802091754" />
+    <state x="402" y="207" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#0" timestamp="1576236178521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="402" y="207" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#0/0.0.1280.680@0.0.1280.680" timestamp="1576236178521" />
     <state width="423" height="466" key="DebuggerActiveHint" timestamp="1575729878626">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="423" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1575729878626" />
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1576084191690">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1576175517942">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576084191690" />
-    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1576084191690">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576175517942" />
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1576236110422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576084191690" />
-    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1576084191689">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576236110422" />
+    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1576236110422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576084191689" />
-    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1576084191690">
+    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576236110422" />
+    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1576236110422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576084191690" />
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1576084191690">
+    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576236110422" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1576236110422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576084191690" />
-    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1576084191690">
+    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576236110422" />
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1576234657849">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576084191690" />
-    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1576084191690">
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576234657849" />
+    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1576234657849">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576084191690" />
-    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1576084191690">
+    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576234657849" />
+    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1576234657849">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576084191690" />
+    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576234657849" />
+    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1576234657849">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576234657849" />
     <state x="371" y="155" key="NewPhpClassDialog" timestamp="1575383704755">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="155" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1575383704755" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1575923585809">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1576234809875">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1575923585809" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1575897843982">
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1576234809875" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1576236248813">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575897843982" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1575802126995">
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576236248813" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576227259782">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1575802126995" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576227259782" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1576235934361">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1576235934361" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1575381301435">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

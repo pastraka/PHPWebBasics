@@ -15,4 +15,3 @@ function dayOfWeek($input)
     }
 }
  echo dayOfWeek($input);
-
