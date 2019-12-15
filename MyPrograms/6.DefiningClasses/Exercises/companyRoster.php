@@ -11,14 +11,14 @@ class Employee
 
     /**
      * Employee constructor.
-     * @param string $name
-     * @param float $salary
-     * @param string $position
-     * @param string $department
-     * @param string $email
-     * @param int $age
+     * @param $name
+     * @param $salary
+     * @param $position
+     * @param $department
+     * @param $email
+     * @param $age
      */
-    public function __construct(string $name, float $salary, string $position, string $department, string $email, int $age)
+    public function __construct($name, $salary, $position, $department, $email, $age)
     {
         $this->name = $name;
         $this->salary = $salary;
@@ -29,100 +29,120 @@ class Employee
     }
 
     /**
-     * @return string
+     * @return mixed
      */
-    public function getName(): string
+    public function getName()
     {
         return $this->name;
     }
 
     /**
-     * @param string $name
+     * @return mixed
      */
-    public function setName(string $name): void
-    {
-        $this->name = $name;
-    }
-
-    /**
-     * @return float
-     */
-    public function getSalary(): float
+    public function getSalary()
     {
         return $this->salary;
     }
 
     /**
-     * @param float $salary
+     * @return mixed
      */
-    public function setSalary(float $salary): void
-    {
-        $this->salary = $salary;
-    }
-
-    /**
-     * @return string
-     */
-    public function getPosition(): string
+    public function getPosition()
     {
         return $this->position;
     }
 
     /**
-     * @param string $position
+     * @return mixed
      */
-    public function setPosition(string $position): void
-    {
-        $this->position = $position;
-    }
-
-    /**
-     * @return string
-     */
-    public function getDepartment(): string
+    public function getDepartment()
     {
         return $this->department;
     }
 
     /**
-     * @param string $department
+     * @return null
      */
-    public function setDepartment(string $department): void
-    {
-        $this->department = $department;
-    }
-
-    /**
-     * @return string
-     */
-    public function getEmail(): string
+    public function getEmail()
     {
         return $this->email;
     }
 
     /**
-     * @param string $email
+     * @return null
      */
-    public function setEmail(string $email): void
-    {
-        $this->email = $email;
-    }
-
-    /**
-     * @return int
-     */
-    public function getAge(): int
+    public function getAge()
     {
         return $this->age;
     }
 
-    /**
-     * @param int $age
-     */
-    public function setAge(int $age): void
+    public function __toString()
     {
-        $this->age = $age;
+        if ($this->getEmail() == NULL && $this->getAge() != NULL) {
+            $result = $this->getName() . ' ' . sprintf('%0.2f', $this->getSalary()) . ' n/a ' . $this->getAge();
+        } elseif ($this->getEmail() != NULL && $this->getAge() == NULL) {
+            $result = $this->getName() . ' ' . sprintf('%0.2f', $this->getSalary()) . ' -1';
+        } elseif ($this->getEmail() == NULL && $this->getAge() == NULL) {
+            $result = $this->getName() . ' ' . sprintf('%0.2f', $this->getSalary()) . ' n/a ' . '-1';
+        } else {
+            $result = $this->getName() . ' ' . sprintf('%0.2f', $this->getSalary()) . ' ' . $this->getEmail() . ' ' . $this->getAge();
+        }
+        return $result;
     }
 }
 
 $n = readline();
+$topSalary = 0;
+$topDepartment = 0;
+$employees = [];
+$departments = [];
+
+for ($i = 0; $i < $n; $i++) {
+    $employee = explode(' ', readline());
+    $name = $employee[0];
+    $salary = $employee[1];
+    $position = $employee[2];
+    $department = $employee[3];
+    $email = NULL;
+    $age = NULL;
+
+    if (isset($employee[4]) && !isset($employee[5])) {
+        if (strpos($employee[4], '@') == false) {
+            $age = $employee[4];
+            $email = NULL;
+        } else {
+            $email = $employee[4];
+        }
+    }
+
+    if (isset($employee[4]) && isset($employee[5])) {
+        $email = $employee[4];
+        $age = $employee[5];
+    }
+    $employees[] = new Employee($name, $salary, $position, $department, $email, $age);
+
+    if (!isset($department, $departments)) {
+        $departments[$department] = $salary;
+    } else {
+        $departments[$department][] = $salary;
+    }
+}
+
+foreach ($departments as $dept => $emp) {
+    if ($topSalary < array_sum($emp) / count($emp)) {
+        $topSalary = array_sum($emp) / count($emp);
+        $topDepartment = $dept;
+    }
+}
+
+echo 'Highest Average Salary: ' . $topDepartment . PHP_EOL;
+
+usort($employees, function ($a, $b) {
+    return $b->getSalary() <=> $a->getSalary();
+});
+
+foreach ($employees as $empl) {
+    if ($empl->getDepartment() == $topDepartment) {
+        echo $empl . PHP_EOL;
+    }
+}
