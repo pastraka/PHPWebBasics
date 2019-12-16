@@ -81,7 +81,7 @@ class Employee
         if ($this->getEmail() == NULL && $this->getAge() != NULL) {
             $result = $this->getName() . ' ' . sprintf('%0.2f', $this->getSalary()) . ' n/a ' . $this->getAge();
         } elseif ($this->getEmail() != NULL && $this->getAge() == NULL) {
-            $result = $this->getName() . ' ' . sprintf('%0.2f', $this->getSalary()) . ' -1';
+            $result = $this->getName() . ' ' . sprintf('%0.2f', $this->getSalary()) . ' ' . $this->getEmail() . ' -1';
         } elseif ($this->getEmail() == NULL && $this->getAge() == NULL) {
             $result = $this->getName() . ' ' . sprintf('%0.2f', $this->getSalary()) . ' n/a ' . '-1';
         } else {
