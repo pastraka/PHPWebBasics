@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/dnaHelix.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/google.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -238,7 +237,7 @@
       <workItem from="1576175904965" duration="1049000" />
       <workItem from="1576227259982" duration="17283000" />
       <workItem from="1576428909563" duration="18538000" />
-      <workItem from="1576583410608" duration="1123000" />
+      <workItem from="1576583410608" duration="1869000" />
     </task>
     <servers />
   </component>
@@ -328,22 +327,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576583064006" />
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1576606950474">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1576606982859">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576606950474" />
-    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1576606950473">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576606982859" />
+    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1576606982859">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576606950473" />
-    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1576606950473">
+    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576606982859" />
+    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1576606982859">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576606950473" />
-    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1576606950473">
+    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576606982859" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1576606982859">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576606950473" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576606982859" />
     <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1576606224249">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -364,10 +363,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="155" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1576525644655" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1576606438463">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1576607073238">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1576606438463" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1576607073238" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1576582690667">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
