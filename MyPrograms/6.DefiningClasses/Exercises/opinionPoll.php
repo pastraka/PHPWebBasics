@@ -5,8 +5,8 @@ class Person
     /**
      * @var string
      */
-    private string $name;
-    private int $age;
+    private $name;
+    private $age;
 
     /**
      * Person constructor.
