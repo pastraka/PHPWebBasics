@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/dnaHelix.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +128,7 @@
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO\DB" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.carSalesman.php">
+  <component name="RunManager" selected="PHP Script.dnaHelix.php">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
@@ -140,29 +141,29 @@
     <configuration name="dateModifier.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/dateModifier.php">
       <method v="2" />
     </configuration>
-    <configuration name="opinionPoll.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php">
+    <configuration name="dnaHelix.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/dnaHelix.php">
       <method v="2" />
     </configuration>
-    <configuration name="pokemonTrainer.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/pokemonTrainer.php">
+    <configuration name="opinionPoll.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php">
       <method v="2" />
     </configuration>
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="PHP">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="PHP Script.pokemonTrainer.php" />
       <item itemvalue="PHP Script.dateModifier.php" />
       <item itemvalue="PHP Script.companyRoster.php" />
       <item itemvalue="PHP Script.carSalesman.php" />
       <item itemvalue="PHP Script.opinionPoll.php" />
+      <item itemvalue="PHP Script.dnaHelix.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.dnaHelix.php" />
         <item itemvalue="PHP Script.carSalesman.php" />
         <item itemvalue="PHP Script.opinionPoll.php" />
         <item itemvalue="PHP Script.companyRoster.php" />
         <item itemvalue="PHP Script.dateModifier.php" />
-        <item itemvalue="PHP Script.pokemonTrainer.php" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +238,7 @@
       <workItem from="1576175904965" duration="1049000" />
       <workItem from="1576227259982" duration="17283000" />
       <workItem from="1576428909563" duration="18538000" />
-      <workItem from="1576583410608" duration="429000" />
+      <workItem from="1576583410608" duration="1123000" />
     </task>
     <servers />
   </component>
@@ -327,22 +328,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576583064006" />
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1576606224249">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1576606950474">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576606224249" />
-    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1576606224249">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576606950474" />
+    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1576606950473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576606224249" />
-    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1576606224249">
+    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576606950473" />
+    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1576606950473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576606224249" />
-    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1576606224249">
+    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576606950473" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1576606950473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576606224249" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576606950473" />
     <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1576606224249">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -363,10 +364,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="155" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1576525644655" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1576493591089">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1576606438463">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1576493591089" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1576606438463" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1576582690667">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
