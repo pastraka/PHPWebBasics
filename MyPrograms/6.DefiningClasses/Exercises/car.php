@@ -68,11 +68,14 @@ $fuelEconomy = floatval($input[2]);
 $car = new Cars($speed, $fuel, $fuelEconomy);
 
 while (true) {
+
     $commands = explode(" ", readline());
+
+    if ($commands[0] == "END") {
+        break;
+    }
+
     switch ($commands[0]) {
-        case "End":
-            break;
-            break;
         case "Travel":
             $car->travel(floatval($commands[1]));
             break;

@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/car.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/google.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/google.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/car.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/car.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +238,7 @@
       <workItem from="1576227259982" duration="17283000" />
       <workItem from="1576428909563" duration="18538000" />
       <workItem from="1576583410608" duration="1901000" />
-      <workItem from="1576667107611" duration="11467000" />
+      <workItem from="1576667107611" duration="11953000" />
     </task>
     <servers />
   </component>
@@ -329,22 +328,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576583064006" />
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1576763401990">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1576846833382">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576763401990" />
-    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1576763401989">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576846833382" />
+    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1576846833381">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576763401989" />
-    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1576763401989">
+    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576846833381" />
+    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1576846833381">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576763401989" />
-    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1576763401989">
+    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576846833381" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1576846833382">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576763401989" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576846833382" />
     <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1576763401991">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -423,16 +422,6 @@
           <url>file://$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/carSalesman.php</url>
           <line>136</line>
           <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/car.php</url>
-          <line>61</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/car.php</url>
-          <line>63</line>
-          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
