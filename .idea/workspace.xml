@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/BattleTank.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Database.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/practice.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +129,10 @@
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO\DB" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.car.php">
+  <component name="RunManager" selected="PHP Script.BattleTank.php">
+    <configuration name="BattleTank.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/BattleTank.php">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
@@ -142,26 +148,23 @@
     <configuration name="google.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/google.php">
       <method v="2" />
     </configuration>
-    <configuration name="opinionPoll.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php">
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="PHP">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="PHP Script.carSalesman.php" />
-      <item itemvalue="PHP Script.opinionPoll.php" />
       <item itemvalue="PHP Script.dnaHelix.php" />
       <item itemvalue="PHP Script.google.php" />
       <item itemvalue="PHP Script.car.php" />
+      <item itemvalue="PHP Script.BattleTank.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.BattleTank.php" />
         <item itemvalue="PHP Script.car.php" />
         <item itemvalue="PHP Script.google.php" />
         <item itemvalue="PHP Script.dnaHelix.php" />
         <item itemvalue="PHP Script.carSalesman.php" />
-        <item itemvalue="PHP Script.opinionPoll.php" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +241,9 @@
       <workItem from="1576428909563" duration="18538000" />
       <workItem from="1576583410608" duration="1901000" />
       <workItem from="1576667107611" duration="12694000" />
-      <workItem from="1576847854955" duration="858000" />
+      <workItem from="1576847854955" duration="1474000" />
+      <workItem from="1577019634323" duration="9155000" />
+      <workItem from="1577284584557" duration="3175000" />
     </task>
     <servers />
   </component>
@@ -304,10 +309,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1576677108361" />
-    <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575802091754">
+    <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577284528317">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1575802091754" />
+    <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1577284528317" />
     <state x="275" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576523152122">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -328,42 +333,42 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576583064006" />
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1576848053765">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1577284530650">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576848053765" />
-    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1576848053765">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577284530650" />
+    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1577284530648">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576848053765" />
-    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1576848053765">
+    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577284530648" />
+    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1577284530648">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576848053765" />
-    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1576848053765">
+    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577284530648" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1577284530650">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576848053765" />
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1576848053765">
+    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577284530650" />
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1577018963076">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576848053765" />
-    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1576848053765">
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577018963076" />
+    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1577018963076">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576848053765" />
-    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1576848053765">
+    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1577018963076" />
+    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1577018963076">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576848053765" />
-    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1576848053765">
+    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1577018963076" />
+    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1577018963076">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576848053765" />
-    <state x="371" y="155" key="NewPhpClassDialog" timestamp="1576676283410">
+    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577018963076" />
+    <state x="424" y="312" key="NewPhpClassDialog" timestamp="1577444880512">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="371" y="155" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1576676283410" />
+    <state x="424" y="312" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1577444880512" />
     <state x="477" y="264" key="NewPhpFileDialog" timestamp="1577018487789">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -372,18 +377,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576582690667" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576847855077">
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1577101534976">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576847855077" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1577101534976" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1577446607658">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577446607658" />
     <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1576344146321">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1576344146321" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1576582153577">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577191525991">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1576582153577" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1577191525991" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
