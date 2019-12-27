@@ -122,3 +122,8 @@ foreach ($vehicles as $vehicle) {
     echo $vehicle->getName() . PHP_EOL;
     echo "---------------------" . PHP_EOL;
 }
+
+require_once "Database.php";
+require_once "Question.php";
+
+var_dump((new Question())->getAll());

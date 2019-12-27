@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/BattleTank.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/practice.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/BattleTank.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/BattleTank.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Database.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,39 +45,9 @@
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="php_web_test: schema" type="ebfa3cd1:MariaImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="php_web_test: schema" type="ebfa3cd1:MariaImplModel$Schema" />
-        <item name="roles: table" type="dbc44a63:MariaImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="php_web_test: schema" type="ebfa3cd1:MariaImplModel$Schema" />
-        <item name="user_likes: table" type="dbc44a63:MariaImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="php_web_test: schema" type="ebfa3cd1:MariaImplModel$Schema" />
-        <item name="users_roles: table" type="dbc44a63:MariaImplModel$Table" />
+        <item name="soft_uni: schema" type="ebfa3cd1:MariaImplModel$Schema" />
       </path>
     </expand>
     <select />
@@ -173,7 +145,17 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@4994fa61" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -244,6 +226,7 @@
       <workItem from="1576847854955" duration="1474000" />
       <workItem from="1577019634323" duration="9155000" />
       <workItem from="1577284584557" duration="3175000" />
+      <workItem from="1577446525628" duration="1897000" />
     </task>
     <servers />
   </component>
@@ -293,14 +276,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1575897743515" />
+    <state x="233" y="0" key="#SQL_Resolution_Scopes" timestamp="1577451037352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#SQL_Resolution_Scopes/0.0.1280.680@0.0.1280.680" timestamp="1577451037352" />
     <state x="221" y="0" key="#Servers" timestamp="1576582244108">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="221" y="0" key="#Servers/0.0.1280.680@0.0.1280.680" timestamp="1576582244108" />
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576683779361">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577450909830">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1576683779361" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1577450909830" />
     <state x="469" y="183" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1576847906562">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -333,22 +320,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576583064006" />
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1577284530650">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1577450505225">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577284530650" />
-    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1577284530648">
+    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577450505225" />
+    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1577450505225">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577284530648" />
-    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1577284530648">
+    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577450505225" />
+    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1577450505225">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577284530648" />
-    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1577284530650">
+    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577450505225" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1577450505225">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577284530650" />
+    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577450505225" />
     <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1577018963076">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -365,10 +352,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577018963076" />
-    <state x="424" y="312" key="NewPhpClassDialog" timestamp="1577444880512">
+    <state width="262" height="457" key="HiddenNamespacesPopup" timestamp="1577450941360">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="424" y="312" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1577444880512" />
+    <state width="262" height="457" key="HiddenNamespacesPopup/0.0.1280.680@0.0.1280.680" timestamp="1577450941360" />
+    <state x="424" y="312" key="NewPhpClassDialog" timestamp="1577446787749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="424" y="312" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1577446787749" />
     <state x="477" y="264" key="NewPhpFileDialog" timestamp="1577018487789">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -377,6 +368,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576582690667" />
+    <state width="200" height="441" key="SqlResolveConfigurable" timestamp="1577451032142">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="200" height="441" key="SqlResolveConfigurable/0.0.1280.680@0.0.1280.680" timestamp="1577451032142" />
+    <state x="357" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1577450974755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1577450974755" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1577101534976">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
