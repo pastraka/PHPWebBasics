@@ -3,12 +3,13 @@ declare(strict_types=1);
 
 class Vehicle
 {
+    const DEFAULT_NAME = "No name";
     protected $leftLight;
     protected $rightLight;
 
     private $name;
 
-    public function __construct(string $name)
+    public function __construct(string $name = self::DEFAULT_NAME)
     {
         $this->name = $name;
         $this->leftLight = false;
@@ -39,14 +40,19 @@ class Carr extends Vehicle
 
 class Bus extends Vehicle
 {
+    const DEFAULT_NAME_SUFFIX = " BUS BRAT";
+    const DEFAULT_DOORS = 3;
+    const DEFAULT_PEOPLE_PER_DOOR = 4;
+    const DEFAULT_PEOPLE_CAPACITY = self::DEFAULT_PEOPLE_PER_DOOR * self::DEFAULT_DOORS;
+
     public function getPeople(): int
     {
-        return 12;
+        return self::DEFAULT_PEOPLE_CAPACITY;
     }
 
     public function getName(): string
     {
-        return parent::getName() . " BUS BROTHER" . PHP_EOL;
+        return parent::getName() . self::DEFAULT_NAME_SUFFIX . PHP_EOL;
     }
 }
 
@@ -126,4 +132,4 @@ foreach ($vehicles as $vehicle) {
 require_once "Database.php";
 require_once "Question.php";
 
-var_dump((new Question())->getAll());
+var_dump((new Question(new Database()))->getAll());
