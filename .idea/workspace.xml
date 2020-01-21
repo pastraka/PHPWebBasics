@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/Box.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/mainBox.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/BattleTank.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/BattleTank.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/Box.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/Box.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/mainBox.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/mainBox.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,13 +103,13 @@
     <configuration name="BattleTank.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/BattleTank.php">
       <method v="2" />
     </configuration>
+    <configuration name="Box.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/Box.php">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
     <configuration name="car.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/car.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="dnaHelix.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/dnaHelix.php">
       <method v="2" />
     </configuration>
     <configuration name="google.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/google.php">
@@ -126,19 +122,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="PHP Script.dnaHelix.php" />
       <item itemvalue="PHP Script.google.php" />
       <item itemvalue="PHP Script.car.php" />
       <item itemvalue="PHP Script.BattleTank.php" />
       <item itemvalue="PHP Script.mainBox.php" />
+      <item itemvalue="PHP Script.Box.php" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="PHP Script.mainBox.php" />
+        <item itemvalue="PHP Script.Box.php" />
         <item itemvalue="PHP Script.BattleTank.php" />
         <item itemvalue="PHP Script.car.php" />
         <item itemvalue="PHP Script.google.php" />
-        <item itemvalue="PHP Script.dnaHelix.php" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +221,8 @@
       <workItem from="1579112715863" duration="1449000" />
       <workItem from="1579114600604" duration="3664000" />
       <workItem from="1579433886081" duration="10000" />
-      <workItem from="1579433911179" duration="3573000" />
+      <workItem from="1579433911179" duration="3712000" />
+      <workItem from="1579529438169" duration="1799000" />
     </task>
     <servers />
   </component>
@@ -283,14 +280,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="221" y="0" key="#Servers/0.0.1280.680@0.0.1280.680" timestamp="1576582244108" />
+    <state x="234" y="0" key="#Updates" timestamp="1579606789617">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="234" y="0" key="#Updates/0.0.1280.680@0.0.1280.680" timestamp="1579606789617" />
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579259818420">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1579259818420" />
-    <state x="469" y="183" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1576847906562">
+    <state x="469" y="183" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1579606759183">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="469" y="183" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1280.680@0.0.1280.680" timestamp="1576847906562" />
+    <state x="469" y="183" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1280.680@0.0.1280.680" timestamp="1579606759183" />
     <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1579440102619">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -319,38 +320,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579259361891" />
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom" timestamp="1579442312287">
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1579606604853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579442312287" />
-    <state width="1237" height="168" key="GridCell.Tab.0.center" timestamp="1579442312287">
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
+    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1579606604853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579442312287" />
-    <state width="1237" height="168" key="GridCell.Tab.0.left" timestamp="1579442312287">
+    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1579606604852">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579442312287" />
-    <state width="1237" height="168" key="GridCell.Tab.0.right" timestamp="1579442312287">
+    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579606604852" />
+    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1579606604853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="168" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579442312287" />
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1579442292069">
+    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1579606604853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579442292069" />
-    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1579442292068">
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
+    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1579606604853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1579442292068" />
-    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1579442292068">
+    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
+    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1579606604853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1579442292068" />
-    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1579442292068">
+    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
+    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1579606604853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1579442292068" />
+    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
     <state width="262" height="457" key="HiddenNamespacesPopup" timestamp="1579259694611">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -363,6 +364,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1579441200583" />
+    <state x="399" y="53" key="RollbackChangesDialog" timestamp="1579606169118">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="53" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579606169118" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1576582690667">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -379,10 +384,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1577101534976" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1579433911453">
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1579529445431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579433911453" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579529445431" />
+    <state x="200" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579606435669">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="200" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1579606435669" />
     <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1576344146321">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -434,6 +443,11 @@
           <url>file://$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/car.php</url>
           <line>67</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/mainBox.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

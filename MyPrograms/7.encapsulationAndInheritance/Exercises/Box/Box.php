@@ -82,7 +82,7 @@ class Box
     /**
      * @return float
      */
-    public function getVolume(): float
+    private function getVolume(): float
     {
         return $this->getLength() * $this->getWidth() * $this->getHeight();
     }
@@ -90,7 +90,7 @@ class Box
     /**
      * @return float
      */
-    public function getLateralSurfaceArea(): float
+    private function getLateralSurfaceArea(): float
     {
         return 2 * ($this->getLength() * $this->getHeight())
             + 2 * ($this->getWidth() * $this->getHeight());
@@ -99,10 +99,19 @@ class Box
     /**
      * @return float
      */
-    public function getServiceArea(): float
+    private function getServiceArea(): float
     {
         return 2 * ($this->getLength() * $this->getWidth())
             + 2 * ($this->getLength() * $this->getHeight())
             + 2 * ($this->getWidth() * $this->getHeight());
+    }
+
+    public function __toString()
+    {
+        $volume = number_format($this->getVolume(), 2, '.', '');
+        $surfaceArea = number_format($this->getServiceArea(), 2, '.', '');
+        $lateralSurfaceArea = number_format($this->getLateralSurfaceArea(), 2, '.', '');
+
+        return "Surface Area - {$surfaceArea}\nLateral Surface Area - {$lateralSurfaceArea}\nVolume - {$volume}";
     }
 }
