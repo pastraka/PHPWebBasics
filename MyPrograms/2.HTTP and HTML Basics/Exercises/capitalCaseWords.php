@@ -8,6 +8,7 @@ if (isset($_GET['text'])) {
     });
     echo implode(', ', $upperWords);
 }
+var_dump($_GET);
 ?>
 
 <form>

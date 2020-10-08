@@ -15,8 +15,10 @@
     <textarea rows="5" cols="30" name="body"></textarea><br/>
     Category:
     <select name="category">
-        <?php foreach ($categories as $category): ?>
-            <option <?= $category['id'] == $categoryId ? 'selected' : ''; ?>
+        <?php /** @var $categories */
+        foreach ($categories as $category): ?>
+            <option <?= /** @var $categoryId */
+            $category['id'] == $categoryId ? 'selected' : ''; ?>
                     value="<?= $category['id']; ?>"><?= $category['name']; ?> (<?= $category['questions_count']; ?>)
             </option>
         <?php endforeach; ?>
@@ -24,7 +26,8 @@
     <br/><br/>
     Tags:<br/>
     <select multiple="multiple" name="existing_tags[]">
-        <?php foreach ($tags as $tag): ?>
+        <?php /** @var $tags */
+        foreach ($tags as $tag): ?>
             <option value="<?= $tag['id']; ?>"><?= $tag['name']; ?> (<?= $tag['questions_count']; ?>)</option>
         <?php endforeach; ?>
     </select>

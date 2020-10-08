@@ -2,7 +2,8 @@
 
 function createCategory(PDO $db, string $name)
 {
-    $query = "INSERT INTO categories (name) VALUES (?)";
+    $query = /** @lang text */
+        "INSERT INTO categories (name) VALUES (?)";
     $stmt = $db->prepare($query);
     $stmt->execute([$name]);
 }
@@ -11,7 +12,8 @@ function createCategory(PDO $db, string $name)
 
 function getQuestionsByCategoryId(PDO $db, int $categoryId): array
 {
-    $query = "
+    $query = /** @lang */
+        "
         SELECT
           q.id,
           q.title,
@@ -52,7 +54,8 @@ function getQuestionsByCategoryId(PDO $db, int $categoryId): array
 
 function getAllCategories(PDO $db): array
 {
-    $query = "
+    $query = /** @lang */
+        "
         SELECT
             c.id,
             c.name,

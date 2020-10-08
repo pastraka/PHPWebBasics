@@ -6,6 +6,7 @@ if (isset($_GET['category_id'])) {
 }
 require_once 'db/category_queries.php';
 require_once 'db/tag_queries.php';
+/** @var $db */
 $categories = getAllCategories($db);
 $tags = getAllTags($db);
 
@@ -17,6 +18,7 @@ if (isset($_POST['title'], $_POST['body'])) {
     $newTags = explode(',', $_POST['new_tags']);
     require_once 'db/question_queries.php';
 
+    /** @var $userId */
     $result = createQuestion($db, $userId, $title, $body, $category, $existingTags, $newTags);
 
     if ($result) {

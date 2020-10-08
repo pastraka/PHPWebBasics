@@ -2,30 +2,61 @@
   <dictionary name="mihai">
     <words>
       <w>abcccba</w>
+      <w>abcdefghijklmnopqrstuvwxyz</w>
+      <w>arsort</w>
       <w>atcgttaggg</w>
       <w>atnsv</w>
+      <w>bluetxt</w>
+      <w>bobo</w>
       <w>cainfo</w>
       <w>chroot</w>
       <w>compatability</w>
+      <w>consetetur</w>
       <w>curlopt</w>
+      <w>dano</w>
+      <w>dobrich</w>
       <w>empl</w>
+      <w>epgojro</w>
+      <w>fkid</w>
+      <w>frequence</w>
       <w>getnum</w>
+      <w>gichka</w>
       <w>gosho</w>
       <w>hahaha</w>
+      <w>hakuna</w>
+      <w>honeycake</w>
       <w>intval</w>
+      <w>lembas</w>
+      <w>mainimg</w>
+      <w>matata</w>
       <w>mihai</w>
       <w>mihail</w>
       <w>misho</w>
+      <w>mitko</w>
+      <w>nakraq</w>
       <w>opcode</w>
+      <w>penka</w>
       <w>pesho</w>
+      <w>pkptkh</w>
+      <w>plodvid</w>
+      <w>plovdiv</w>
       <w>pokemons</w>
+      <w>rgpjrpe</w>
+      <w>rpker</w>
+      <w>sasho</w>
       <w>softuni</w>
+      <w>spojpe</w>
+      <w>strlen</w>
       <w>strrev</w>
+      <w>strtolower</w>
       <w>sybct</w>
       <w>tokelau</w>
       <w>toncho</w>
       <w>usort</w>
+      <w>varna</w>
+      <w>wizzard</w>
       <w>xampp</w>
+      <w>yellowtxt</w>
     </words>
   </dictionary>
 </component>

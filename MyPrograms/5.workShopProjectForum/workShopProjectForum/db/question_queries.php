@@ -16,7 +16,8 @@ function createQuestion(
         $existingTags[] = $tagId;
     }
 
-    $query = "
+    $query = /** @lang */
+        "
         INSERT INTO questions (
           title, 
           body, 
@@ -45,7 +46,8 @@ function createQuestion(
     $questionId = $db->lastInsertId();
 
     foreach ($existingTags as $tagId) {
-        $query = "INSERT INTO questions_tags (question_id, tag_id) VALUES (?, ?);";
+        $query = /** @lang */
+            "INSERT INTO questions_tags (question_id, tag_id) VALUES (?, ?);";
         $stmt = $db->prepare($query);
         $stmt->execute([$questionId, $tagId]);
     }
@@ -55,7 +57,8 @@ function createQuestion(
 
 function getQuestionById(PDO $db, int $id): array
 {
-    $query = "
+    $query = /** @lang */
+        "
         SELECT
           q.id,
           q.title,

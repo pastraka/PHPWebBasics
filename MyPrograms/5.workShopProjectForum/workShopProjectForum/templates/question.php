@@ -7,7 +7,8 @@
 <body>
 <?php include_once 'logged_in_header.php'; ?>
 
-<a href="<?=url("category.php?id={$question['category_id']}");?>">Back to questions in this category</a>
+<a href="<?= /** @var $question */
+url("category.php?id={$question['category_id']}");?>">Back to questions in this category</a>
 
 <div class="question">
     <span>
@@ -27,7 +28,8 @@
     <span><?= $question['category_name']; ?></span>
 </div>
 <hr/>
-<?php foreach ($answers as $answer): ?>
+<?php /** @var $answers */
+foreach ($answers as $answer): ?>
 
 
     <hr/>

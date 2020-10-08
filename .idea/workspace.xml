@@ -3,11 +3,67 @@
   <component name="AnalysisUIOptions">
     <option name="SCOPE_TYPE" value="3" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/mordor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/shoppingSpree.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/Box.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/Box.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/mainBox.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/mainBox.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/mixedPhones.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/mixedPhones.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/mostFrequentNumber.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/mostFrequentNumber.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/roundingNumbersAwayFromZero.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/roundingNumbersAwayFromZero.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/capitalCaseWords.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/capitalCaseWords.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/dumpHTTPGetRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/dumpHTTPGetRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/sortLines.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/2.HTTP and HTML Basics/Exercises/sortLines.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/Exercises/Exerxcises.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/Exercises/Exerxcises.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/ask_question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/ask_question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/categories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/category.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/common.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/common.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/create_category.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/create_category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/answer_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/answer_queries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/category_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/category_queries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/question_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/question_queries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/tag_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/tag_queries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/user_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/user_queries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/forumdb_all.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/forumdb_all.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/ask_question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/ask_question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/categories_list.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/categories_list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/login_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/login_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/questions_by_category.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/questions_by_category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/register_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/register_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/Box.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/mainBox.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/BattleTank.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/BattleTank.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Question.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,42 +71,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="soft_uni: schema" type="ebfa3cd1:MariaImplModel$Schema" />
-      </path>
-    </expand>
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="PHPWebBasics" />
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,16 +90,16 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="mysql&#10;hive" />
+    <property name="DatabaseDriversLRU" value="hive&#10;sqlserver&#10;mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xampp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -88,68 +109,59 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2319842" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\7.encapsulationAndInheritance\Exercises" />
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\7.encapsulationAndInheritance\Exercises\Box" />
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO" />
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO\templates" />
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO\DB" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.mainBox.php">
+  <component name="RunManager" selected="PHP Script.mordor.php">
     <configuration name="BattleTank.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/BattleTank.php">
       <method v="2" />
     </configuration>
-    <configuration name="Box.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/Box.php">
+    <configuration name="Box.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box.php">
       <method v="2" />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
-    <configuration name="car.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/car.php">
+    <configuration name="mainBox.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box&amp;DataValidation/mainBox.php">
       <method v="2" />
     </configuration>
-    <configuration name="google.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/google.php">
+    <configuration name="mordor.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/mordor.php">
       <method v="2" />
     </configuration>
-    <configuration name="mainBox.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/mainBox.php">
+    <configuration name="shoppingSpree.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/shoppingSpree.php">
       <method v="2" />
     </configuration>
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="PHP">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="PHP Script.google.php" />
-      <item itemvalue="PHP Script.car.php" />
-      <item itemvalue="PHP Script.BattleTank.php" />
-      <item itemvalue="PHP Script.mainBox.php" />
       <item itemvalue="PHP Script.Box.php" />
+      <item itemvalue="PHP Script.mainBox.php" />
+      <item itemvalue="PHP Script.BattleTank.php" />
+      <item itemvalue="PHP Script.shoppingSpree.php" />
+      <item itemvalue="PHP Script.mordor.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.mordor.php" />
+        <item itemvalue="PHP Script.shoppingSpree.php" />
         <item itemvalue="PHP Script.mainBox.php" />
         <item itemvalue="PHP Script.Box.php" />
         <item itemvalue="PHP Script.BattleTank.php" />
-        <item itemvalue="PHP Script.car.php" />
-        <item itemvalue="PHP Script.google.php" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -223,11 +235,27 @@
       <workItem from="1579433886081" duration="10000" />
       <workItem from="1579433911179" duration="3712000" />
       <workItem from="1579529438169" duration="1799000" />
+      <workItem from="1601199293959" duration="10149000" />
+      <workItem from="1601293220206" duration="584000" />
+      <workItem from="1601297013327" duration="629000" />
+      <workItem from="1601372799760" duration="5855000" />
+      <workItem from="1601397688821" duration="5283000" />
+      <workItem from="1601461970854" duration="2579000" />
+      <workItem from="1601472797590" duration="316000" />
+      <workItem from="1601553911029" duration="2957000" />
+      <workItem from="1601632992125" duration="3771000" />
+      <workItem from="1601816180830" duration="61000" />
+      <workItem from="1601830180047" duration="2534000" />
+      <workItem from="1601892776781" duration="2162000" />
+      <workItem from="1601913232164" duration="1722000" />
+      <workItem from="1601974802458" duration="7107000" />
+      <workItem from="1602060627340" duration="8994000" />
+      <workItem from="1602147779876" duration="610000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -244,162 +272,125 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="0" key="#CLI_Interpreters" timestamp="1576581578397">
+    <state x="267" y="19" key="#Inspections" timestamp="1601206588291">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="221" y="0" key="#CLI_Interpreters/0.0.1280.680@0.0.1280.680" timestamp="1576581578397" />
-    <state x="233" y="0" key="#Inspections" timestamp="1575897573049">
+    <state x="267" y="19" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1601206588291" />
+    <state x="233" y="0" key="#Intentions" timestamp="1601555477656">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1575897573049" />
-    <state x="233" y="0" key="#Intentions" timestamp="1575897745547">
+    <state x="233" y="0" key="#Intentions/0.0.1280.680@0.0.1280.680" timestamp="1601555477656" />
+    <state x="142" y="194" key="#SQL_Resolution_Scopes" timestamp="1601400403335">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="0" key="#Intentions/0.0.1280.680@0.0.1280.680" timestamp="1575897745547" />
-    <state x="233" y="0" key="#Plugins" timestamp="1575897743515">
+    <state x="142" y="194" key="#SQL_Resolution_Scopes/0.0.1280.680@0.0.1280.680" timestamp="1601400403335" />
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601642080431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="0" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1575897743515" />
-    <state x="233" y="0" key="#SQL_Resolution_Scopes" timestamp="1579259887734">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1601642080430" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1602071721198">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="0" key="#SQL_Resolution_Scopes/0.0.1280.680@0.0.1280.680" timestamp="1579259887734" />
-    <state x="221" y="0" key="#Servers" timestamp="1576582244108">
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1602071721198" />
+    <state width="451" height="466" key="DebuggerActiveHint" timestamp="1602066225588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="221" y="0" key="#Servers/0.0.1280.680@0.0.1280.680" timestamp="1576582244108" />
-    <state x="234" y="0" key="#Updates" timestamp="1579606789617">
+    <state width="451" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1602066225588" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1601399764787">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="234" y="0" key="#Updates/0.0.1280.680@0.0.1280.680" timestamp="1579606789617" />
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579259818420">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601399764787" />
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1602076229961">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1579259818420" />
-    <state x="469" y="183" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1579606759183">
+    <state width="1037" height="682" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602076229961" />
+    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1602076229961">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="469" y="183" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1280.680@0.0.1280.680" timestamp="1579606759183" />
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1579440102619">
+    <state width="1037" height="682" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
+    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602076229961" />
+    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1602076229961">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1579440102619" />
-    <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579433892792">
+    <state width="1037" height="682" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
+    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602076229961" />
+    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1602076229961">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1579433892792" />
-    <state x="275" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576523152122">
+    <state width="1037" height="682" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
+    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602076229961" />
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1602076229961">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="275" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1576523152122" />
-    <state x="356" y="163" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#" timestamp="1576582689287">
+    <state width="1037" height="682" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
+    <state width="1037" height="682" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602076229961" />
+    <state width="1237" height="203" key="GridCell.Tab.1.center" timestamp="1602076229961">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="356" y="163" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/0.0.1280.680@0.0.1280.680" timestamp="1576582689287" />
-    <state x="402" y="207" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#0" timestamp="1576236178521">
+    <state width="1037" height="682" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
+    <state width="1037" height="682" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
+    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602076229961" />
+    <state width="1237" height="203" key="GridCell.Tab.1.left" timestamp="1602076229961">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="402" y="207" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#0/0.0.1280.680@0.0.1280.680" timestamp="1576236178521" />
-    <state width="423" height="466" key="DebuggerActiveHint" timestamp="1576432455024">
+    <state width="1037" height="682" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
+    <state width="1037" height="682" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
+    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602076229961" />
+    <state width="1237" height="203" key="GridCell.Tab.1.right" timestamp="1602076229961">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="423" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1576432455024" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1579259361891">
+    <state width="1037" height="682" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
+    <state width="1037" height="682" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
+    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602076229961" />
+    <state width="198" height="457" key="HiddenNamespacesPopup" timestamp="1601893155719">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579259361891" />
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1579606604853">
+    <state width="198" height="457" key="HiddenNamespacesPopup/0.0.1280.680@0.0.1280.680" timestamp="1601893155719" />
+    <state x="275" y="64" key="NewPhpClassDialog" timestamp="1601979098964">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
-    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1579606604853">
+    <state x="275" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1601979098964" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1602074600186">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
-    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1579606604852">
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1602074600186" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1601399624832">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579606604852" />
-    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1579606604853">
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601399624832" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602147843408">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1579606604853">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602147843408" />
+    <state x="495" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1601555290640">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
-    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1579606604853">
+    <state x="495" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1601555290640" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602148393560">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
-    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1579606604853">
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602148393560" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1601469034662">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
-    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1579606604853">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1579606604853" />
-    <state width="262" height="457" key="HiddenNamespacesPopup" timestamp="1579259694611">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="262" height="457" key="HiddenNamespacesPopup/0.0.1280.680@0.0.1280.680" timestamp="1579259694611" />
-    <state x="424" y="312" key="NewPhpClassDialog" timestamp="1577446787749">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="424" y="312" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1577446787749" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1579441200583">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1579441200583" />
-    <state x="399" y="53" key="RollbackChangesDialog" timestamp="1579606169118">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="399" y="53" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579606169118" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1576582690667">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576582690667" />
-    <state width="200" height="441" key="SqlResolveConfigurable" timestamp="1579259887610">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="200" height="441" key="SqlResolveConfigurable/0.0.1280.680@0.0.1280.680" timestamp="1579259887610" />
-    <state x="357" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1579259272628">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="357" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1579259272628" />
-    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1577101534976">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1577101534976" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1579529445431">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579529445431" />
-    <state x="200" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579606435669">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="200" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1579606435669" />
-    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1576344146321">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1576344146321" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577191525991">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1577191525991" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1601469034662" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -420,16 +411,6 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/tripLength.php</url>
-          <line>2</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/treasureLocator.php</url>
-          <line>3</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/companyRoster.php</url>
           <line>101</line>
           <option name="timeStamp" value="12" />
@@ -440,14 +421,29 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/car.php</url>
-          <line>67</line>
-          <option name="timeStamp" value="19" />
+          <url>file://$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/FindMinAndMaxElement.php</url>
+          <line>3</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box/mainBox.php</url>
-          <line>4</line>
-          <option name="timeStamp" value="20" />
+          <url>file://$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/countRealNumbers.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Lab/oddOccurrences.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/indexOfLetters.php</url>
+          <line>13</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/maxSequenceOfIncreasingElements.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

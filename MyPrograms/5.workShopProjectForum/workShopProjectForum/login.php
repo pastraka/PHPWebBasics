@@ -7,8 +7,10 @@ if (isset($_POST['username'], $_POST['password'])) {
     $username = $_POST['username'];
     $password = $_POST['password'];
 
+    //
     require_once 'db/user_queries.php';
 
+    /** @var $db */
     $userId = verifyCredentials($db, $username, $password);
 
     if ($userId != -1) {

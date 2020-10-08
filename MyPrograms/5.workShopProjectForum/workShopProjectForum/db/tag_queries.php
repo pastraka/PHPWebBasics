@@ -2,7 +2,8 @@
 
 function findTag(PDO $db, string $tagName): int
 {
-    $query = "SELECT id FROM tags WHERE name = ?";
+    $query = /** @lang */
+        "SELECT id FROM tags WHERE name = ?";
     $stmt = $db->prepare($query);
     $stmt->execute([$tagName]);
     $data = $stmt->fetch(PDO::FETCH_ASSOC);
@@ -10,7 +11,8 @@ function findTag(PDO $db, string $tagName): int
         return (int)$data['id'];
     }
 
-    $query = "INSERT INTO tags (name) VALUES (?)";
+    $query = /** @lang */
+        "INSERT INTO tags (name) VALUES (?)";
     $stmt = $db->prepare($query);
     $stmt->execute([$tagName]);
 
@@ -20,7 +22,8 @@ function findTag(PDO $db, string $tagName): int
 
 function getAllTags(PDO $db): array
 {
-    $query = "
+    $query = /** @lang */
+        "
         SELECT 
             t.id,
             t.name,

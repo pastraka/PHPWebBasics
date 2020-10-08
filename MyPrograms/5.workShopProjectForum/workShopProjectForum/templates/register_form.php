@@ -8,15 +8,18 @@
 <body>
 <h1>Register form</h1>
 
-Or go to <a href="login.php">login</a>, if you have an account
+Or go to <a href="login.php">Login</a>, if you have an account!
 <br/>
 <form method="post">
-    Username:<input type="text" value="<?=$username;?>" name="username"/><br/>
-    Pass: <input type="<?= !empty($password) ? 'text' : 'password';?>" value="<?=$password; ?>" name="password"/><br/>
+    Username:<input type="text" value="<?= /** @var $username */
+    $username;?>" name="username"/><br/>
+    Pass: <input type="<?= !empty($password) ? 'text' : 'password';?>" value="<?= /** @var $password */
+    $password; ?>" name="password"/><br/>
     <input type="submit"/>
 </form>
 <div id="response">
-    <?= $response; ?>
+    <?= /** @var $response */
+    $response; ?>
 </div>
 </body>
 </html>

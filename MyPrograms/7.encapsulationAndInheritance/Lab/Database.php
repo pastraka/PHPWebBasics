@@ -7,7 +7,7 @@ class Database
 
     public function __construct()
     {
-        $this->pdo = new PDO("mysql:dbname=soft_uni;host=localhost", "root",);
+        $this->pdo = new PDO("mysql:dbname=php_web_test;host=localhost", "root", "");
     }
 
     public function fetch($query)

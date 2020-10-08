@@ -33,13 +33,13 @@ GROUP BY category_id;
 8.
 SELECT e.employee_id, e.job_title, a.address_id, a.address_text
 FROM employees AS e
-JOIN addresses as a ON e.address_id = a.address_id
+JOIN addresses AS a ON e.address_id = a.address_id
 ORDER BY a.address_id
 LIMIT 5;
 9.
-SELECT e.employee_id, e.first_name, e.salary, d.department_id
+SELECT e.employee_id, e.first_name, e.salary, d.name AS department_name
 FROM employees AS e
-JOIN departments as d ON e.department_id = d.department_id
+INNER JOIN departments AS d ON e.department_id = d.department_id
 WHERE salary > '15000'
 ORDER BY d.department_id DESC
 LIMIT 5;
@@ -71,11 +71,10 @@ FROM employees AS e
 SELECT e.employee_id,
  CONCAT(e.first_name, ' ', e.last_name) AS employee_name,
 CONCAT(em.first_name, ' ', em.last_name) as manager_name,
- d.name AS department_name 
+ d.name AS department_name
 FROM employees AS e
-JOIN employees AS em 
-ON e.manager_id = em.employee_id 
-14.
+JOIN employees AS em
+ON e.manager_id = em.employee_id
 JOIN departments AS d 
 ON d.department_id = e.department_id
 WHERE e.manager_id IS NOT NULL

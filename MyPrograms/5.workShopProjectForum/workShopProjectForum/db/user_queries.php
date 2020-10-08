@@ -2,7 +2,8 @@
 
 function hasLiked(PDO $db, $userId, $questionId): bool
 {
-    $query = "SELECT * FROM user_likes WHERE user_id = ? AND question_id = ?";
+    $query = /** @lang */
+        "SELECT * FROM user_likes WHERE user_id = ? AND question_id = ?";
     $stmt = $db->prepare($query);
     $stmt->execute([$userId, $questionId]);
     return !empty($stmt->fetchAll(PDO::FETCH_ASSOC));
@@ -10,30 +11,34 @@ function hasLiked(PDO $db, $userId, $questionId): bool
 
 function removeLike(PDO $db, $userId, $questionId)
 {
-    $query = "DELETE FROM user_likes WHERE user_id = ? AND question_id = ?";
+    $query = /** @lang */
+        "DELETE FROM user_likes WHERE user_id = ? AND question_id = ?";
     $stmt = $db->prepare($query);
     $stmt->execute([$userId, $questionId]);
 }
 
 function like(PDO $db, $userId, $questionId)
 {
-    $query = "INSERT INTO user_likes (user_id, question_id) VALUES (?, ?)";
+    $query = /** @lang */
+        "INSERT INTO user_likes (user_id, question_id) VALUES (?, ?)";
     $stmt = $db->prepare($query);
     $stmt->execute([$userId, $questionId]);
 }
 
 function logout(PDO $db, string $authId)
 {
-    $query = "DELETE FROM authentications WHERE auth_string = ?";
+    $query = /** @lang */
+        "DELETE FROM authentications WHERE auth_string = ?";
     $stmt = $db->prepare($query);
     $stmt->execute([$authId]);
 }
 
 function getRolesByUserId(PDO $db, int $userId): array
 {
-    $query = "
+    $query = /** @lang */
+        "
         SELECT
-          r.name          
+          r.name        
         FROM
           users_roles ur
         INNER JOIN roles r on ur.role_id = r.id
@@ -48,7 +53,8 @@ function getRolesByUserId(PDO $db, int $userId): array
 
 function getUserByAuthId(PDO $db, string $authId): int
 {
-    $query = "
+    $query = /** @lang */
+        "
         SELECT 
           user_id
         FROM
@@ -69,7 +75,8 @@ function getUserByAuthId(PDO $db, string $authId): int
 
 function issueAuthenticationString(PDO $db, int $userId): string
 {
-    $query = "
+    $query = /** @lang */
+        "
         SELECT 
           auth_string
         FROM
@@ -86,7 +93,8 @@ function issueAuthenticationString(PDO $db, int $userId): string
     }
 
     $authString = uniqid();
-    $query = "
+    $query = /** @lang */
+        "
         INSERT INTO
           authentications (
             auth_string, 
@@ -110,7 +118,8 @@ function issueAuthenticationString(PDO $db, int $userId): string
 
 function verifyCredentials(PDO $db, string $username, string $password): int
 {
-    $query = "
+    $query = /** @lang */
+        "
         SELECT 
             id, 
             password
@@ -139,7 +148,8 @@ function verifyCredentials(PDO $db, string $username, string $password): int
 
 function register(PDO $db, string $username, string $password): bool
 {
-    $query = "
+    $query = /** @lang */
+        "
         INSERT INTO 
           users (
             username, 
@@ -168,9 +178,11 @@ function register(PDO $db, string $username, string $password): bool
     }
 
     foreach ($roles as $roleName) {
-        $query = "SELECT id FROM roles WHERE name = '$roleName'";
+        $query = /** @lang */
+            "SELECT id FROM roles WHERE name = '$roleName'";
         $roleId = $db->query($query)->fetch(PDO::FETCH_ASSOC)['id'];
-        $query = "INSERT INTO users_roles (user_id, role_id) VALUES ($userId, $roleId)";
+        $query = /** @lang */
+            "INSERT INTO users_roles (user_id, role_id) VALUES ($userId, $roleId)";
         $db->query($query);
     }
 

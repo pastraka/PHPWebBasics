@@ -18,10 +18,11 @@ class Box
     private $height;
 
     /**
-     * Box constructor.
+     * Box&DataValidation constructor.
      * @param float $length
      * @param float $width
      * @param float $height
+     * @throws Exception
      */
 
     public function __construct(float $length, float $width, float $height)
@@ -41,10 +42,15 @@ class Box
 
     /**
      * @param float $length
+     * @throws Exception
      */
     private function setLength(float $length): void
     {
-        $this->length = $length;
+        if ($length <= 0) {
+            throw new Exception("Length cannot be zero or negative.");
+        } else {
+            $this->length = $length;
+        }
     }
 
     /**
@@ -57,10 +63,15 @@ class Box
 
     /**
      * @param float $width
+     * @throws Exception
      */
     private function setWidth(float $width): void
     {
-        $this->width = $width;
+        if ($width <= 0) {
+            throw new Exception("Width cannot be zero or negative.");
+        } else {
+            $this->width = $width;
+        }
     }
 
     /**
@@ -73,10 +84,15 @@ class Box
 
     /**
      * @param float $height
+     * @throws Exception
      */
     private function setHeight(float $height): void
     {
-        $this->height = $height;
+        if ($height <= 0) {
+            throw new Exception("Height cannot be zero or negative.");
+        } else {
+            $this->height = $height;
+        }
     }
 
     /**
@@ -114,4 +130,15 @@ class Box
 
         return "Surface Area - {$surfaceArea}\nLateral Surface Area - {$lateralSurfaceArea}\nVolume - {$volume}";
     }
+}
+
+$length = floatval(readline());
+$width = floatval(readline());
+$height = floatval(readline());
+
+try {
+    $box = new Box($length, $width, $height);
+    echo $box;
+} catch (Exception $e) {
+    echo $e->getMessage();
 }

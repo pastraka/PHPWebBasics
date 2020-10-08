@@ -1,4 +1,6 @@
 <?php
+//Developers can turn strict types on by placing the declare(strict_types=1); method at the top of a PHP file.
+//This implementation means that PHP will 'ignore' type hints and return types unless the declare(strict_types=1); statement appears at the top of the file. This makes some sense as there is a lot of legacy PHP code still in use. And developers should be able to upgrade to the latest version of PHP without rewriting their entire codebase.
 declare(strict_types=1);
 
 class Vehicle

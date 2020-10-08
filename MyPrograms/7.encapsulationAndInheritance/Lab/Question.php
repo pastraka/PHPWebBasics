@@ -1,10 +1,12 @@
 <?php
 
 
-class Question extends Database
+class Question
 {
     private $db;
 
+    //Question is NOT a Database
+    //Question it has a Database
     public function __construct(Database $db)
     {
         $this->db = $db;
@@ -12,6 +14,6 @@ class Question extends Database
 
     public function getAll()
     {
-        return $this->db->fetch("SELECT * FROM soft_uni.questions");
+        return $this->db->fetch("SELECT * FROM php_web_test.questions");
     }
 }

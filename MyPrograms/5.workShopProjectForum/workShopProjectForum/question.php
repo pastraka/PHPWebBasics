@@ -10,11 +10,13 @@ $id = $_GET['id'];
 require_once 'db/question_queries.php';
 require_once 'db/answer_queries.php';
 
+/** @var $db */
 $question = getQuestionById($db, $id);
 $answers = getAnswersByQuestionId($db, $id);
 
 if (isset($_POST['answer'])) {
     $body = $_POST['body'];
+    /** @var $userId */
     answer($db, $id, $userId, $body);
     header("Location: " . url("question.php?id=$id"));
     exit;

@@ -1,7 +1,8 @@
 <?php
 function answer(PDO $db, int $questionId, int $userId, string $body)
 {
-    $query = "INSERT INTO answers (
+    $query = /** @lang */
+        "INSERT INTO answers (
       body, 
       author_id, 
       question_id
@@ -19,7 +20,8 @@ function answer(PDO $db, int $questionId, int $userId, string $body)
 
 function getAnswersByQuestionId(PDO $db, int $questionId): array
 {
-    $query = "
+    $query = /** @lang */
+        "
         SELECT
           a.id,
           a.body,

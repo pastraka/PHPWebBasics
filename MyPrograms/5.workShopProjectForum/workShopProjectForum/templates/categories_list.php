@@ -7,7 +7,9 @@
 <body>
 <?php include_once 'logged_in_header.php'; ?>
 
-<?php if (hasRole($db, $userId, 'ADMIN')): ?>
+<?php /** @var $db */
+/** @var $userId */
+if (hasRole($db, $userId, 'ADMIN')): ?>
     <a href="<?= url("create_category.php"); ?>">Create new category</a> |
 <?php endif; ?>
 
@@ -19,7 +21,8 @@
     </tr>
     </thead>
     <tbody>
-    <?php foreach ($categories as $category): ?>
+    <?php /** @var $categories */
+    foreach ($categories as $category): ?>
         <tr>
             <td>
                 <a href="<?= url("category.php?id={$category['id']}"); ?>">

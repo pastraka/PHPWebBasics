@@ -9,6 +9,7 @@ if (isset($_POST['username'], $_POST['password'])) {
 
     require_once 'db/user_queries.php';
 
+    /** @var $db */
     $result = register($db, $username, $password);
 
     if ($result) {

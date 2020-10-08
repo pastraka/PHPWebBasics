@@ -1,6 +1,8 @@
 <?php
 require_once 'common.php';
 
+/** @var $db */
+/** @var $userId */
 if (!hasRole($db, $userId, 'ADMIN')) {
     header("Location: " . url("logout.php"));
     exit;

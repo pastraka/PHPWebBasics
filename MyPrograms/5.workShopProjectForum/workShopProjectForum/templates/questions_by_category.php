@@ -9,8 +9,10 @@
 
 <a href="<?= url("categories.php?"); ?>">Back to all categories</a>
 |
-<a href="<?= url("ask_question.php?category_id=$id"); ?>">Ask new question</a>
-<?php foreach ($questions as $question): ?>
+<a href="<?= /** @var $id */
+url("ask_question.php?category_id=$id"); ?>">Ask new question</a>
+<?php /** @var $questions */
+foreach ($questions as $question): ?>
     <hr/>
 
     <div class="question">
@@ -26,7 +28,9 @@
         <span><?= $question['category_name']; ?></span>
     </div>
     <div>
-        <?php if (hasLiked($db, $userId, $question['id'])): ?>
+        <?php /** @var $userId */
+        /** @var $db */
+        if (hasLiked($db, $userId, $question['id'])): ?>
             <a href="<?= url("category.php?id={$_GET['id']}&action=removeLike&question_id={$question['id']}"); ?>">Remove
                 like</a> (<?= $question['likes_count']; ?>)
         <?php else: ?>
