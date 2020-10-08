@@ -9,6 +9,8 @@
       <w>bluetxt</w>
       <w>bobo</w>
       <w>cainfo</w>
+      <w>calcolator</w>
+      <w>calcs</w>
       <w>chroot</w>
       <w>compatability</w>
       <w>consetetur</w>
@@ -18,6 +20,7 @@
       <w>empl</w>
       <w>epgojro</w>
       <w>fkid</w>
+      <w>floatval</w>
       <w>frequence</w>
       <w>getnum</w>
       <w>gichka</w>
@@ -49,9 +52,11 @@
       <w>strlen</w>
       <w>strrev</w>
       <w>strtolower</w>
+      <w>strtoupper</w>
       <w>sybct</w>
       <w>tokelau</w>
       <w>toncho</w>
+      <w>toping</w>
       <w>usort</w>
       <w>varna</w>
       <w>wizzard</w>
