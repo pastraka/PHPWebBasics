@@ -1,6 +1,6 @@
 <?php
 
-class Person
+class Personi
 {
     public $name;
     public $age;
@@ -16,4 +16,4 @@ class Person
 
 $name = readline();
 $age = intval(readline());
-$person = new Person($name, $age);
+$person = new Personi($name, $age);

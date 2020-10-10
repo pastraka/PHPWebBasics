@@ -1,6 +1,6 @@
 <?php
 
-class Person
+class Persona
 {
     /**
      * @var string
@@ -44,7 +44,7 @@ class Family
     private $members;
 
     /**
-     * @var Person
+     * @var Persons
      */
     private $oldestMember;
 
@@ -54,7 +54,7 @@ class Family
         $this->oldestMember = null;
     }
 
-    public function addMember(Person $person): void
+    public function addMember(Persona $person): void
     {
         if (null == $this->oldestMember || $this->oldestMember->getAge() < $person->getAge()) {
             $this->oldestMember = $person;
@@ -62,7 +62,7 @@ class Family
         $this->members[] = $person;
     }
 
-    public function getOldestMember(): Person
+    public function getOldestMember(): Persons
     {
         return $this->oldestMember;
     }
@@ -73,7 +73,7 @@ $family = new Family();
 
 while ($n--) {
     list($name, $age) = explode(" ", readline());
-    $person = new Person($name, $age);
+    $person = new Persona($name, $age);
     $family->addMember($person);
 }
 

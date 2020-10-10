@@ -1,6 +1,6 @@
 <?php
 
-class Person
+class Personaa
 {
     /**
      * @var string
@@ -48,7 +48,7 @@ for ($i = 0; $i < $n; $i++) {
     $persons = readline();
     list($name, $age) = explode(" ", $persons);
     if ($age > 30) {
-        $people[] = new Person($name, $age);
+        $people[] = new Personaa($name, $age);
     }
 }
 

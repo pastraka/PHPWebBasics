@@ -1,6 +1,6 @@
 <?php
 
-class Person
+class Persons
 {
     private $name;
     private $money;
@@ -145,7 +145,7 @@ $products = [];
 try {
     foreach ($personsInp as $per) {
         list($name, $money) = array_map('trim', explode('=', $per));
-        $persons[$name] = new Person($name, floatval($money));
+        $persons[$name] = new Persons($name, floatval($money));
     }
     $productsInp = array_map('trim', explode(';', readline()));
     array_pop($productsInp);

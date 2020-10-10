@@ -1,13 +1,13 @@
 <?php
 
-class Person
+class Persone
 {
     private string $name;
     private int $age;
     private string $occupation;
 
     /**
-     * Person constructor.
+     * Persone constructor.
      * @param $name
      * @param $age
      * @param $occupation
@@ -82,7 +82,7 @@ while ($input != "END") {
     list($name, $age, $occupation) = explode(" ", $input);
     $age = intval($age);
 
-    $person = new Person($name, $age, $occupation);
+    $person = new Persone($name, $age, $occupation);
     $people[] = $person;
 
     //print_r($people);
@@ -90,11 +90,11 @@ while ($input != "END") {
     $input = readline();
 }
 
-usort($people, function (Person $p1, Person $p2) {
+usort($people, function (Persone $p1, Persone $p2) {
     return $p1->getAge() <=> $p2->getAge();
 });
 
-/** @var Person $person */
+/** @var Persone $person */
 foreach ($people as $person) {
     echo $person;
 }

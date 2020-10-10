@@ -1,6 +1,6 @@
 <?php
 
-class Person
+class Personss
 {
     public $name;
 
@@ -17,5 +17,5 @@ class Person
 
 $name = readline();
 
-$person = new Person($name);
+$person = new Personss($name);
 echo $person;
