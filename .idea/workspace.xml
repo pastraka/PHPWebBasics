@@ -23,18 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/bookShop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/person.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/manKind.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/onlineRadioDatabase.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/oldestFamilyMember.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/oldestFamilyMember.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/creatingConstructor.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/creatingConstructor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/methodSaysHello.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/methodSaysHello.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/person.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/person.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/printPeople.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/printPeople.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/pizzaCalories.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/pizzaCalories.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/shoppingSpree.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/shoppingSpree.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +85,7 @@
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO\DB" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.bookShop.php">
+  <component name="RunManager" selected="PHP Script.onlineRadioDatabase.php">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
@@ -103,32 +95,32 @@
     <configuration name="demo.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/demo.php">
       <method v="2" />
     </configuration>
-    <configuration name="mordor.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/mordor.php">
+    <configuration name="manKind.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/manKind.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="onlineRadioDatabase.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/onlineRadioDatabase.php">
       <method v="2" />
     </configuration>
     <configuration name="pizzaCalories.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/pizzaCalories.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="shoppingSpree.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/shoppingSpree.php">
       <method v="2" />
     </configuration>
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="PHP">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="PHP Script.shoppingSpree.php" />
-      <item itemvalue="PHP Script.mordor.php" />
       <item itemvalue="PHP Script.pizzaCalories.php" />
       <item itemvalue="PHP Script.demo.php" />
       <item itemvalue="PHP Script.bookShop.php" />
+      <item itemvalue="PHP Script.manKind.php" />
+      <item itemvalue="PHP Script.onlineRadioDatabase.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.onlineRadioDatabase.php" />
+        <item itemvalue="PHP Script.manKind.php" />
         <item itemvalue="PHP Script.bookShop.php" />
         <item itemvalue="PHP Script.pizzaCalories.php" />
         <item itemvalue="PHP Script.demo.php" />
-        <item itemvalue="PHP Script.mordor.php" />
-        <item itemvalue="PHP Script.shoppingSpree.php" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +216,12 @@
       <workItem from="1602147779876" duration="11470000" />
       <workItem from="1602233370808" duration="9320000" />
       <workItem from="1602262988505" duration="3134000" />
-      <workItem from="1602346964362" duration="4791000" />
+      <workItem from="1602346964362" duration="6023000" />
+      <workItem from="1602403339367" duration="7065000" />
+      <workItem from="1602420048425" duration="697000" />
+      <workItem from="1602499779110" duration="5768000" />
+      <workItem from="1602583765081" duration="1246000" />
+      <workItem from="1602617181386" duration="74000" />
     </task>
     <servers />
   </component>
@@ -273,10 +270,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1601642080430" />
-    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1602266094380">
+    <state x="446" y="45" key="#com.intellij.ide.util.MemberChooser" timestamp="1602505010231">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1602266094380" />
+    <state x="446" y="45" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1602505010231" />
+    <state x="270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602505482252">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1602505482252" />
     <state width="451" height="466" key="DebuggerActiveHint" timestamp="1602066225588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -285,54 +286,54 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601399764787" />
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1602352684492">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1602593291613">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
     <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602352684492" />
-    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1602352684491">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602593291613" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1602593291613">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
     <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
-    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602352684491" />
-    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1602352684491">
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602593291613" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1602593291613">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
     <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
-    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602352684491" />
-    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1602352684491">
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602593291613" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1602593291613">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
     <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
-    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602352684491" />
-    <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1602352679975">
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602593291613" />
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1602510163358">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
     <state width="1037" height="682" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
-    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602352679975" />
-    <state width="1237" height="203" key="GridCell.Tab.1.center" timestamp="1602352679975">
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602510163358" />
+    <state width="1237" height="203" key="GridCell.Tab.1.center" timestamp="1602510163358">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
     <state width="1037" height="682" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
-    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602352679975" />
-    <state width="1237" height="203" key="GridCell.Tab.1.left" timestamp="1602352679975">
+    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602510163358" />
+    <state width="1237" height="203" key="GridCell.Tab.1.left" timestamp="1602510163358">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
     <state width="1037" height="682" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
-    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602352679975" />
-    <state width="1237" height="203" key="GridCell.Tab.1.right" timestamp="1602352679975">
+    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602510163358" />
+    <state width="1237" height="203" key="GridCell.Tab.1.right" timestamp="1602510163358">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
     <state width="1037" height="682" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
-    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602352679975" />
+    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602510163358" />
     <state width="198" height="457" key="HiddenNamespacesPopup" timestamp="1601893155719">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -341,10 +342,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="275" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1601979098964" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1602348795068">
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1602419166511">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1602348795068" />
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1602419166511" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1602157350094">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
