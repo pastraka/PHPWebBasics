@@ -35,12 +35,12 @@ class Vehicle
     }
 }
 
-class Carr extends Vehicle
+class Carr extends Vehicles
 {
 
 }
 
-class Bus extends Vehicle
+class Bus extends Vehicles
 {
     const DEFAULT_NAME_SUFFIX = " BUS BRAT";
     const DEFAULT_DOORS = 3;
@@ -59,7 +59,7 @@ class Bus extends Vehicle
 }
 
 
-class Truck extends Vehicle
+class Truck extends Vehicles
 {
     private $upperLight;
     private $lowerLight;
@@ -89,7 +89,7 @@ class Truck extends Vehicle
     }
 }
 
-class Tank extends Vehicle
+class Tank extends Vehicles
 {
     public function getName(): string
     {
@@ -97,7 +97,7 @@ class Tank extends Vehicle
     }
 }
 
-class BattleTank extends Vehicle
+class BattleTank extends Vehicles
 {
     public function getName(): string
     {
@@ -115,7 +115,7 @@ $v5 = new Bus("Bus2");
 $v6 = new Truck("Truck1");
 $v7 = new Truck("Truck2");
 
-/** @var Vehicle[] $vehicle */
+/** @var Vehicles[] $vehicle */
 $vehicles = [$v1, $v2, $v3, $v4, new BattleTank("Hero"), $v5, $v6, $v7];
 
 

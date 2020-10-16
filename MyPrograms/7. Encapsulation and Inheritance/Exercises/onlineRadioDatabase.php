@@ -104,7 +104,7 @@ for ($i = 0; $i < $n; $i++) {
     }
 }
 
-echo "Song added: " . count($playList) . PHP_EOL;
+echo "Songs added: " . count($playList) . PHP_EOL;
 echo "Playlist length: ";
 
 $minutes = NULL;
