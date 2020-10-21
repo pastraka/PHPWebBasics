@@ -23,78 +23,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Lab/1/Factories/VehicleFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Lab/1/Factories/VehicleFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Lab/1/Vehicles/Car.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Lab/1/Vehicles/Truck.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Lab/1/Vehicles/VehicleAbstract.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Lab/1/Vehicles/VehicleInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Lab/1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Cat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/CatFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/CatFactoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Cymric.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Siamese.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/StreetExtraOrdinaire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Border Control/Border.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Border Control/Control.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Ferrari/Carss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Ferrari/Ferrari.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Human/Citizen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Human/Person.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Telephony/Phone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Telephony/Smartphone.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/Exercises/Exerxcises.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4. Database Relations and Design/Exercises/Exerxcises.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/4.DatabaseRelationsAndDesign/Lab/Lab.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/4. Database Relations and Design/Lab/Lab.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/ask_question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/ask_question.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/categories.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/category.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/common.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/common.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/create_category.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/create_category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/answer_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/db/answer_queries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/category_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/db/category_queries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/db_connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/db/db_connection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/question_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/db/question_queries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/tag_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/db/tag_queries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/db/user_queries.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/db/user_queries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/forumdb_all.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/forumdb_all.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/logout.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/question.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/ask_question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/templates/ask_question.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/categories_list.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/templates/categories_list.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/create_category.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/templates/create_category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/logged_in_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/templates/logged_in_header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/login_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/templates/login_form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/templates/question.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/questions_by_category.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/templates/questions_by_category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/templates/register_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/templates/register_form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/5.workShopProjectForum/workShopProjectForum/workshop_project_forum.zip" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/5. Work Shop Project Forum/workShopProjectForum/workshop_project_forum.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/car.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/car.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/carSalesman.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/carSalesman.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/companyRoster.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/companyRoster.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/cookingByNumbers.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/cookingByNumbers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/dateModifier.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/dateModifier.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/dnaHelix.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/dnaHelix.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/google.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/google.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/lastDigitName.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/lastDigitName.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/modifyAverage.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/modifyAverage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/numberInReversedOrder.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/numberInReversedOrder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/oldestFamilyMember.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/oldestFamilyMember.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/opinionPoll.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/opinionPoll.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/pokemonTrainer.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/pokemonTrainer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/radioCrystals.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/radioCrystals.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/superCalculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/superCalculator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/treasureLocator.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/treasureLocator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/tripLength.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/tripLength.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Exercises/validityChecker.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/validityChecker.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/creatingConstructor.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Lab/creatingConstructor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/dayOfWeek.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Lab/dayOfWeek.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/insideVolume.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Lab/insideVolume.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/methodSaysHello.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Lab/methodSaysHello.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/person.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Lab/person.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/printPeople.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Lab/printPeople.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/roadRadar.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Lab/roadRadar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/symmetryCheck.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Lab/symmetryCheck.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/6.DefiningClasses/Lab/templateFormat.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Lab/templateFormat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/Box.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/Box.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/bookShop.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/bookShop.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/manKind.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/manKind.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/mordor.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/mordor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/onlineRadioDatabase.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/onlineRadioDatabase.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/pizzaCalories.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/pizzaCalories.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Exercises/shoppingSpree.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/shoppingSpree.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/BattleTank.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Lab/BattleTank.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Lab/Database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7.encapsulationAndInheritance/Lab/Question.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Lab/Question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/oldestFamilyMember.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/oldestFamilyMember.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/opinionPoll.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Exercises/opinionPoll.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Lab/printPeople.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/6. Defining Classes/Lab/printPeople.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/manKind.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/manKind.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/shoppingSpree.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/shoppingSpree.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,55 +91,55 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2319842" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\8. Polymorphism, Interfaces and Abstraction\Exercises\Border Control" />
+      <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\8. Polymorphism, Interfaces and Abstraction\Exercises" />
+      <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\8. Polymorphism, Interfaces and Abstraction\Exercises\Person" />
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\8. Polymorphism, Interfaces and Abstraction\Lab\1" />
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\8. Polymorphism, Interfaces and Abstraction\Lab\Vehicles" />
-      <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\7.encapsulationAndInheritance\Exercises" />
-      <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\7.encapsulationAndInheritance\Exercises\Box" />
-      <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\4.DatabaseRelationsAndDesign\PDO" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.index.php">
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
+  <component name="RunManager" selected="PHP Script.Main.php">
+    <configuration name="Citizen.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Human/Citizen.php">
       <method v="2" />
     </configuration>
-    <configuration name="bookShop.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/bookShop.php">
+    <configuration name="Ferrari.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Ferrari/Ferrari.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Main.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Main.php">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/My Programs/1.Intro to PHP/Exercises/rotateAndSum.php">
       <method v="2" />
     </configuration>
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Lab/1/index.php">
       <method v="2" />
     </configuration>
-    <configuration name="manKind.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/manKind.php">
-      <method v="2" />
-    </configuration>
     <configuration name="onlineRadioDatabase.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/onlineRadioDatabase.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="pizzaCalories.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/pizzaCalories.php">
       <method v="2" />
     </configuration>
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="PHP">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="PHP Script.pizzaCalories.php" />
-      <item itemvalue="PHP Script.bookShop.php" />
-      <item itemvalue="PHP Script.manKind.php" />
       <item itemvalue="PHP Script.onlineRadioDatabase.php" />
       <item itemvalue="PHP Script.index.php" />
+      <item itemvalue="PHP Script.Citizen.php" />
+      <item itemvalue="PHP Script.Ferrari.php" />
+      <item itemvalue="PHP Script.Main.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.Main.php" />
+        <item itemvalue="PHP Script.Ferrari.php" />
+        <item itemvalue="PHP Script.Citizen.php" />
         <item itemvalue="PHP Script.index.php" />
         <item itemvalue="PHP Script.onlineRadioDatabase.php" />
-        <item itemvalue="PHP Script.manKind.php" />
-        <item itemvalue="PHP Script.bookShop.php" />
-        <item itemvalue="PHP Script.pizzaCalories.php" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +243,13 @@
       <workItem from="1602617181386" duration="276000" />
       <workItem from="1602667038886" duration="2788000" />
       <workItem from="1602762602182" duration="3708000" />
-      <workItem from="1602838083114" duration="7604000" />
+      <workItem from="1602838083114" duration="7660000" />
+      <workItem from="1603012181673" duration="3071000" />
+      <workItem from="1603015650450" duration="4885000" />
+      <workItem from="1603100505898" duration="7869000" />
+      <workItem from="1603127186482" duration="1660000" />
+      <workItem from="1603181906056" duration="8369000" />
+      <workItem from="1603270353791" duration="4793000" />
     </task>
     <servers />
   </component>
@@ -334,94 +290,102 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Intentions/0.0.1280.680@0.0.1280.680" timestamp="1601555477656" />
+    <state x="233" y="0" key="#Plugins" timestamp="1603015659701">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1603015659701" />
     <state x="142" y="194" key="#SQL_Resolution_Scopes" timestamp="1601400403335">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="194" key="#SQL_Resolution_Scopes/0.0.1280.680@0.0.1280.680" timestamp="1601400403335" />
-    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601642080431">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603016480045">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1601642080430" />
-    <state x="446" y="45" key="#com.intellij.ide.util.MemberChooser" timestamp="1602766258378">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1603016480045" />
+    <state x="446" y="45" key="#com.intellij.ide.util.MemberChooser" timestamp="1603276008969">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="45" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1602766258378" />
-    <state x="270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602766101871">
+    <state x="446" y="45" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1603276008969" />
+    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603015505693">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1602766101871" />
-    <state width="451" height="466" key="DebuggerActiveHint" timestamp="1602844408323">
+    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1603015505693" />
+    <state x="270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603276303635">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="451" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1602844408323" />
+    <state x="270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1603276303635" />
+    <state width="451" height="466" key="DebuggerActiveHint" timestamp="1603195195184">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="451" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1603195195184" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1601399764787">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601399764787" />
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1602852878831">
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1603280685658">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
     <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602852878831" />
-    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1602852878831">
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603280685658" />
+    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1603280685658">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
     <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
-    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602852878831" />
-    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1602852878831">
+    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603280685658" />
+    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1603280685658">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
     <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
-    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602852878831" />
-    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1602852878831">
+    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603280685658" />
+    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1603280685658">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
     <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
-    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602852878831" />
-    <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1602851027848">
+    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603280685658" />
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1603280685658">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
     <state width="1037" height="682" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
-    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602851027848" />
-    <state width="1237" height="203" key="GridCell.Tab.1.center" timestamp="1602851027848">
+    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603280685658" />
+    <state width="1237" height="203" key="GridCell.Tab.1.center" timestamp="1603280685658">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
     <state width="1037" height="682" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
-    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602851027848" />
-    <state width="1237" height="203" key="GridCell.Tab.1.left" timestamp="1602851027848">
+    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1603280685658" />
+    <state width="1237" height="203" key="GridCell.Tab.1.left" timestamp="1603280685658">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
     <state width="1037" height="682" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
-    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602851027848" />
-    <state width="1237" height="203" key="GridCell.Tab.1.right" timestamp="1602851027848">
+    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1603280685658" />
+    <state width="1237" height="203" key="GridCell.Tab.1.right" timestamp="1603280685658">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1037" height="682" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
     <state width="1037" height="682" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
-    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602851027848" />
+    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1603280685658" />
     <state width="198" height="457" key="HiddenNamespacesPopup" timestamp="1601893155719">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="198" height="457" key="HiddenNamespacesPopup/0.0.1280.680@0.0.1280.680" timestamp="1601893155719" />
-    <state x="275" y="64" key="NewPhpClassDialog" timestamp="1602766022819">
+    <state x="275" y="64" key="NewPhpClassDialog" timestamp="1603275911902">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="275" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1602766022819" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1602766605024">
+    <state x="275" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1603275911902" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1603184805382">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1602766605024" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1602157350094">
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1603184805382" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1603103748514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602157350094" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603103748514" />
     <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602766253928">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -434,6 +398,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602148393560" />
+    <state x="0" y="0" width="585" height="680" key="find.popup" timestamp="1603012245507">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="585" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1603012245507" />
+    <state x="433" y="200" key="scopes" timestamp="1603127860268">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="433" y="200" key="scopes/0.0.1280.680@0.0.1280.680" timestamp="1603127860268" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1601469034662">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -491,6 +463,11 @@
           <url>file://$PROJECT_DIR$/MyPrograms/1.Intro to PHP/Exercises/maxSequenceOfIncreasingElements.php</url>
           <line>6</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Main.php</url>
+          <line>45</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

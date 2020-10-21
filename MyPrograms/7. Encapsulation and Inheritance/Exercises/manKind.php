@@ -6,7 +6,7 @@ class Human
     private $lastName;
 
     /**
-     * Human constructor.
+     * Person constructor.
      * @param $firstName
      * @param $lastName
      * @throws Exception

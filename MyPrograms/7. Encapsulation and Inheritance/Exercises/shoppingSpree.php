@@ -7,7 +7,7 @@ class Persons
     private $products = [];
 
     /**
-     * Person constructor.
+     * Persons constructor.
      * @param $name
      * @param $money
      * @throws Exception

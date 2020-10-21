@@ -100,14 +100,14 @@ foreach ($people as $person) {
 }
 
 
-//class Person
+//class Persons
 //{
 //    public $name;
 //    public $age;
 //    public $occupation;
 //
 //    /**
-//     * Person constructor.
+//     * Persons constructor.
 //     * @param $name
 //     * @param $age
 //     * @param $occupation
@@ -141,7 +141,7 @@ foreach ($people as $person) {
 //    $name = $input[0];
 //    $age = intval($input[1]);
 //    $occupation = $input[2];
-//    $person[] = new Person($name, $age, $occupation);
+//    $person[] = new Persons($name, $age, $occupation);
 //
 //    $input = readline();
 //}

@@ -12,7 +12,7 @@ class Persona
     private $age;
 
     /**
-     * Person constructor.
+     * Persons constructor.
      * @param string $name
      * @param int $age
      */

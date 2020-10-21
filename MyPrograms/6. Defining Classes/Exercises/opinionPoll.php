@@ -9,7 +9,7 @@ class Personaa
     private $age;
 
     /**
-     * Person constructor.
+     * Persons constructor.
      * @param $name
      * @param $age
      */
