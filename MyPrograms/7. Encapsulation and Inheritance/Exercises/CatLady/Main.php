@@ -16,7 +16,7 @@ class Main
         $this->readData();
     }
 
-    private function findCatByName(string $name): Cat
+    private function findCatByName(string $name): Catt
     {
         if (array_key_exists($name, $this->cats)) {
             return $this->cats[$name];

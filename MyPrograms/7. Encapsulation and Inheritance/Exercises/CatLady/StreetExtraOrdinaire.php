@@ -1,7 +1,7 @@
 <?php
 
 
-class StreetExtraOrdinaire extends Cat
+class StreetExtraOrdinaire extends Catt
 {
     /**
      * @var int

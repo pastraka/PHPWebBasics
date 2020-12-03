@@ -7,10 +7,10 @@ class CatFactory implements CatFactoryInterface
      * @param string $breed
      * @param string $name
      * @param int $param
-     * @return Cat
+     * @return Catt
      * @throws Exception
      */
-    public static function create(string $breed, string $name, int $param): Cat
+    public static function create(string $breed, string $name, int $param): Catt
     {
         if (!class_exists($breed)) {
             throw new Exception("");

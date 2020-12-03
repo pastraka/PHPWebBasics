@@ -1,7 +1,7 @@
 <?php
 
 
-class Siamese extends Cat
+class Siamese extends Catt
 {
     private $earSize;
 

@@ -1,7 +1,7 @@
 <?php
 
 
-class Cymric extends Cat
+class Cymric extends Catt
 {
     /**
      * @var int
