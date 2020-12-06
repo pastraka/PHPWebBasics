@@ -1,7 +1,7 @@
 <?php
 
 
-interface Control
+interface Controll
 {
     public function setName($name);
     public function setId($id);

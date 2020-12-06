@@ -23,31 +23,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af273b7a-3990-4e9a-9d48-847c03ce9f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/Animal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/AnimalFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/AnimalFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/Catt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/Felime.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/Food.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/FoodFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/FoodFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/Mainn.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/Mammal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/Meat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/Mouse.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/Tiger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/Vegetable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/Zebra.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Birthdays/Birthday.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Birthdays/Controll.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Birthdays/Initiall.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Birthdays/Personn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Birthdays/Pet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Birthdays/Robott.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Border Control/Initial.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Border Control/Robot.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mihai.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/CatFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/CatFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/CatFactoryInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/CatFactoryInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Cymric.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Cymric.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Main.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Main.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Siamese.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Siamese.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/StreetExtraOrdinaire.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/StreetExtraOrdinaire.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Human/Citizen.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Multiple Implementation/Citizen.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Human/Person.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Multiple Implementation/Person.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Border Control/Border.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Border Control/Person.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Border Control/Control.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Border Control/Control.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,14 +94,14 @@
       <recent name="C:\xampp\htdocs\PHPWebBasics\MyPrograms\8. Polymorphism, Interfaces and Abstraction\Lab\Vehicles" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.wildFarm.php">
-    <configuration name="Citizen.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Multiple Implementation/Citizen.php">
+  <component name="RunManager" selected="PHP Script.Initiall.php">
+    <configuration name="BorderControl.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Border Control/BorderControl.php">
       <method v="2" />
     </configuration>
-    <configuration name="Ferrari.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Ferrari/Ferrari.php">
+    <configuration name="Initial.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Border Control/Initial.php">
       <method v="2" />
     </configuration>
-    <configuration name="Main.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/7. Encapsulation and Inheritance/Exercises/CatLady/Main.php">
+    <configuration name="Initiall.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Birthdays/Initiall.php">
       <method v="2" />
     </configuration>
     <configuration name="Mainn.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MyPrograms/8. Polymorphism, Interfaces and Abstraction/Exercises/Wild Farm/Mainn.php">
@@ -130,19 +117,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="PHP Script.Citizen.php" />
-      <item itemvalue="PHP Script.Ferrari.php" />
-      <item itemvalue="PHP Script.Main.php" />
       <item itemvalue="PHP Script.Mainn.php" />
       <item itemvalue="PHP Script.wildFarm.php" />
+      <item itemvalue="PHP Script.Initial.php" />
+      <item itemvalue="PHP Script.BorderControl.php" />
+      <item itemvalue="PHP Script.Initiall.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.Initiall.php" />
+        <item itemvalue="PHP Script.BorderControl.php" />
+        <item itemvalue="PHP Script.Initial.php" />
         <item itemvalue="PHP Script.wildFarm.php" />
         <item itemvalue="PHP Script.Mainn.php" />
-        <item itemvalue="PHP Script.Main.php" />
-        <item itemvalue="PHP Script.Ferrari.php" />
-        <item itemvalue="PHP Script.Citizen.php" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +245,8 @@
       <workItem from="1606647707963" duration="1270000" />
       <workItem from="1606827531900" duration="3223000" />
       <workItem from="1606905681665" duration="10382000" />
-      <workItem from="1606993082505" duration="3432000" />
+      <workItem from="1606993082505" duration="5502000" />
+      <workItem from="1607251997042" duration="3089000" />
     </task>
     <servers />
   </component>
@@ -289,136 +277,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="267" y="19" key="#Inspections" timestamp="1602351800157">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="267" y="19" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1602351800157" />
-    <state x="233" y="0" key="#Intentions" timestamp="1601555477656">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="0" key="#Intentions/0.0.1280.680@0.0.1280.680" timestamp="1601555477656" />
-    <state x="233" y="0" key="#Plugins" timestamp="1603015659701">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="0" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1603015659701" />
-    <state x="142" y="194" key="#SQL_Resolution_Scopes" timestamp="1601400403335">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="194" key="#SQL_Resolution_Scopes/0.0.1280.680@0.0.1280.680" timestamp="1601400403335" />
-    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603016480045">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1603016480045" />
-    <state x="446" y="45" key="#com.intellij.ide.util.MemberChooser" timestamp="1606917584917">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="446" y="45" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1606917584917" />
-    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603015505693">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1603015505693" />
-    <state x="270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606917837169">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1606917837169" />
-    <state width="451" height="466" key="DebuggerActiveHint" timestamp="1603195195184">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="451" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1603195195184" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1601399764787">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601399764787" />
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1607000027983">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1037" height="682" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607000027983" />
-    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1607000027983">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1037" height="682" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
-    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607000027983" />
-    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1607000027983">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1037" height="682" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
-    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607000027983" />
-    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1607000027983">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1037" height="682" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911791" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601914327681" />
-    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607000027983" />
-    <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1603280685658">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1037" height="682" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
-    <state width="1037" height="682" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
-    <state width="1237" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603280685658" />
-    <state width="1237" height="203" key="GridCell.Tab.1.center" timestamp="1603280685658">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1037" height="682" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
-    <state width="1037" height="682" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
-    <state width="1237" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1603280685658" />
-    <state width="1237" height="203" key="GridCell.Tab.1.left" timestamp="1603280685658">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1037" height="682" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
-    <state width="1037" height="682" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
-    <state width="1237" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1603280685658" />
-    <state width="1237" height="203" key="GridCell.Tab.1.right" timestamp="1603280685658">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1037" height="682" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1080.1880@1920.0.1080.1880" timestamp="1601830911792" />
-    <state width="1037" height="682" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601834063080" />
-    <state width="1237" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1603280685658" />
-    <state width="198" height="457" key="HiddenNamespacesPopup" timestamp="1601893155719">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="198" height="457" key="HiddenNamespacesPopup/0.0.1280.680@0.0.1280.680" timestamp="1601893155719" />
-    <state x="275" y="64" key="NewPhpClassDialog" timestamp="1606915838962">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="275" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1606915838962" />
-    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1606999381659">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1606999381659" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1603103748514">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603103748514" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602766253928">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602766253928" />
-    <state x="495" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1601555290640">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="495" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1601555290640" />
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602148393560">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602148393560" />
-    <state x="0" y="0" width="585" height="680" key="find.popup" timestamp="1603012245507">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="0" y="0" width="585" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1603012245507" />
-    <state x="433" y="200" key="scopes" timestamp="1603127860268">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="433" y="200" key="scopes/0.0.1280.680@0.0.1280.680" timestamp="1603127860268" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1601469034662">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1601469034662" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
